@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="build-jar-configurations-to-artifacts" />
+    <converter id="detach-cdi-facet-from-module" />
+    <converter id="detach-jsf-facet-from-module" />
+    <converter id="google-app-engine-facet" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="gwt-packaging" />
+    <converter id="javaee-module-to-facets" />
+    <converter id="javaee-packaging-to-artifacts" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="nodejs-remote-debug-configuration-converter" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\changjiang\IdeaProjects\travel\.idea\compiler.xml" timestamp="1584716359054" />
+    <file path="C:\Users\changjiang\IdeaProjects\travel\.idea\libraries\Maven__c3p0_c3p0_0_9_1_2.xml" timestamp="1584750711013" />
+    <file path="C:\Users\changjiang\IdeaProjects\travel\.idea\libraries\Maven__com_github_jsqlparser_jsqlparser_1_0.xml" timestamp="1584750711030" />
+    <file path="C:\Users\changjiang\IdeaProjects\travel\.idea\libraries\Maven__com_github_pagehelper_pagehelper_5_1_2.xml" timestamp="1584750711048" />
+    <file path="C:\Users\changjiang\IdeaProjects\travel\.idea\libraries\Maven__com_google_protobuf_protobuf_java_2_6_0.xml" timestamp="1584750711063" />
+    <file path="C:\Users\changjiang\IdeaProjects\travel\.idea\libraries\Maven__javax_annotation_jsr250_api_1_0.xml" timestamp="1584750711078" />
+    <file path="C:\Users\changjiang\IdeaProjects\travel\.idea\libraries\Maven__javax_servlet_javax_servlet_api_3_1_0.xml" timestamp="1584750711093" />
+    <file path="C:\Users\changjiang\IdeaProjects\travel\.idea\libraries\Maven__javax_servlet_jsp_jsp_api_2_0.xml" timestamp="1584750711109" />
+    <file path="C:\Users\changjiang\IdeaProjects\travel\.idea\libraries\Maven__jstl_jstl_1_2.xml" timestamp="1584750711125" />
+    <file path="C:\Users\changjiang\IdeaProjects\travel\.idea\libraries\Maven__junit_junit_4_12.xml" timestamp="1584750711140" />
+    <file path="C:\Users\changjiang\IdeaProjects\travel\.idea\libraries\Maven__log4j_log4j_1_2_12.xml" timestamp="1584750711157" />
+    <file path="C:\Users\changjiang\IdeaProjects\travel\.idea\libraries\Maven__mysql_mysql_connector_java_8_0_12.xml" timestamp="1584750711173" />
+    <file path="C:\Users\changjiang\IdeaProjects\travel\.idea\libraries\Maven__org_aspectj_aspectjweaver_1_6_8.xml" timestamp="1584750711187" />
+    <file path="C:\Users\changjiang\IdeaProjects\travel\.idea\libraries\Maven__org_hamcrest_hamcrest_core_1_3.xml" timestamp="1584750711204" />
+    <file path="C:\Users\changjiang\IdeaProjects\travel\.idea\libraries\Maven__org_mybatis_mybatis_3_4_5.xml" timestamp="1584750711219" />
+    <file path="C:\Users\changjiang\IdeaProjects\travel\.idea\libraries\Maven__org_mybatis_mybatis_spring_1_3_0.xml" timestamp="1584750711237" />
+    <file path="C:\Users\changjiang\IdeaProjects\travel\.idea\libraries\Maven__org_slf4j_slf4j_api_1_6_6.xml" timestamp="1584750711253" />
+    <file path="C:\Users\changjiang\IdeaProjects\travel\.idea\libraries\Maven__org_slf4j_slf4j_log4j12_1_6_6.xml" timestamp="1584750711280" />
+    <file path="C:\Users\changjiang\IdeaProjects\travel\.idea\libraries\Maven__org_springframework_security_spring_security_acl_5_0_1_RELEASE.xml" timestamp="1584750711295" />
+    <file path="C:\Users\changjiang\IdeaProjects\travel\.idea\libraries\Maven__org_springframework_security_spring_security_config_5_0_1_RELEASE.xml" timestamp="1584750711311" />
+    <file path="C:\Users\changjiang\IdeaProjects\travel\.idea\libraries\Maven__org_springframework_security_spring_security_core_5_0_1_RELEASE.xml" timestamp="1584750711325" />
+    <file path="C:\Users\changjiang\IdeaProjects\travel\.idea\libraries\Maven__org_springframework_security_spring_security_taglibs_5_0_1_RELEASE.xml" timestamp="1584750711355" />
+    <file path="C:\Users\changjiang\IdeaProjects\travel\.idea\libraries\Maven__org_springframework_security_spring_security_web_5_0_1_RELEASE.xml" timestamp="1584750711371" />
+    <file path="C:\Users\changjiang\IdeaProjects\travel\.idea\libraries\Maven__org_springframework_spring_aop_5_0_2_RELEASE.xml" timestamp="1584750711387" />
+    <file path="C:\Users\changjiang\IdeaProjects\travel\.idea\libraries\Maven__org_springframework_spring_beans_5_0_2_RELEASE.xml" timestamp="1584750711402" />
+    <file path="C:\Users\changjiang\IdeaProjects\travel\.idea\libraries\Maven__org_springframework_spring_context_5_0_2_RELEASE.xml" timestamp="1584750711418" />
+    <file path="C:\Users\changjiang\IdeaProjects\travel\.idea\libraries\Maven__org_springframework_spring_context_support_5_0_2_RELEASE.xml" timestamp="1584750711432" />
+    <file path="C:\Users\changjiang\IdeaProjects\travel\.idea\libraries\Maven__org_springframework_spring_core_5_0_2_RELEASE.xml" timestamp="1584750711448" />
+    <file path="C:\Users\changjiang\IdeaProjects\travel\.idea\libraries\Maven__org_springframework_spring_expression_5_0_2_RELEASE.xml" timestamp="1584750711464" />
+    <file path="C:\Users\changjiang\IdeaProjects\travel\.idea\libraries\Maven__org_springframework_spring_jcl_5_0_2_RELEASE.xml" timestamp="1584750711479" />
+    <file path="C:\Users\changjiang\IdeaProjects\travel\.idea\libraries\Maven__org_springframework_spring_jdbc_5_0_2_RELEASE.xml" timestamp="1584750711494" />
+    <file path="C:\Users\changjiang\IdeaProjects\travel\.idea\libraries\Maven__org_springframework_spring_orm_5_0_2_RELEASE.xml" timestamp="1584750711510" />
+    <file path="C:\Users\changjiang\IdeaProjects\travel\.idea\libraries\Maven__org_springframework_spring_test_5_0_2_RELEASE.xml" timestamp="1584750711526" />
+    <file path="C:\Users\changjiang\IdeaProjects\travel\.idea\libraries\Maven__org_springframework_spring_tx_5_0_2_RELEASE.xml" timestamp="1584750711542" />
+    <file path="C:\Users\changjiang\IdeaProjects\travel\.idea\libraries\Maven__org_springframework_spring_web_5_0_2_RELEASE.xml" timestamp="1584750711564" />
+    <file path="C:\Users\changjiang\IdeaProjects\travel\.idea\libraries\Maven__org_springframework_spring_webmvc_5_0_2_RELEASE.xml" timestamp="1584750711579" />
+    <file path="C:\Users\changjiang\IdeaProjects\travel\.idea\misc.xml" timestamp="1584716359034" />
+    <file path="C:\Users\changjiang\IdeaProjects\travel\.idea\modules.xml" timestamp="1584716324715" />
+    <file path="C:\Users\changjiang\IdeaProjects\travel\.idea\workspace.xml" timestamp="1584959304550" />
+    <file path="C:\Users\changjiang\IdeaProjects\travel\travel.iml" timestamp="1584750710963" />
+  </project-files>
+</conversion>
+

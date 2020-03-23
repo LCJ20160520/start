@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="build-jar-configurations-to-artifacts" />
+    <converter id="detach-cdi-facet-from-module" />
+    <converter id="detach-jsf-facet-from-module" />
+    <converter id="google-app-engine-facet" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="gwt-packaging" />
+    <converter id="javaee-module-to-facets" />
+    <converter id="javaee-packaging-to-artifacts" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="nodejs-remote-debug-configuration-converter" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\compiler.xml" timestamp="1584963470703" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\encodings.xml" timestamp="1584963470717" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__ch_qos_logback_logback_classic_1_2_3.xml" timestamp="1584963470754" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__ch_qos_logback_logback_core_1_2_3.xml" timestamp="1584963470766" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__com_fasterxml_classmate_1_5_1.xml" timestamp="1584963470775" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_2.xml" timestamp="1584963470788" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_core_2_10_2.xml" timestamp="1584963470801" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_databind_2_10_2.xml" timestamp="1584963470817" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_10_2.xml" timestamp="1584963470838" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_10_2.xml" timestamp="1584963470867" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_10_2.xml" timestamp="1584963470876" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__com_jayway_jsonpath_json_path_2_4_0.xml" timestamp="1584963470887" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" timestamp="1584963470897" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__com_zaxxer_HikariCP_3_4_2.xml" timestamp="1584963470907" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" timestamp="1584963470917" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" timestamp="1584963470929" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" timestamp="1584963470940" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2.xml" timestamp="1584963470950" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__junit_junit_4_12.xml" timestamp="1584963470960" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__mysql_mysql_connector_java_8_0_12.xml" timestamp="1584963470969" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__net_bytebuddy_byte_buddy_1_10_8.xml" timestamp="1584963470978" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__net_bytebuddy_byte_buddy_agent_1_10_8.xml" timestamp="1584963470987" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__net_minidev_accessors_smart_1_2.xml" timestamp="1584963470997" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__net_minidev_json_smart_2_3.xml" timestamp="1584963471006" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_apache_logging_log4j_log4j_api_2_12_1.xml" timestamp="1584963471017" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_apache_logging_log4j_log4j_to_slf4j_2_12_1.xml" timestamp="1584963471026" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_31.xml" timestamp="1584963471034" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_31.xml" timestamp="1584963471042" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_31.xml" timestamp="1584963471055" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_apiguardian_apiguardian_api_1_1_0.xml" timestamp="1584963471068" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_assertj_assertj_core_3_13_2.xml" timestamp="1584963471081" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_hamcrest_hamcrest_2_1.xml" timestamp="1584963471093" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_hibernate_validator_hibernate_validator_6_0_18_Final.xml" timestamp="1584963471103" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" timestamp="1584963471120" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_junit_jupiter_junit_jupiter_5_5_2.xml" timestamp="1584963471133" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_junit_jupiter_junit_jupiter_api_5_5_2.xml" timestamp="1584963471147" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_junit_jupiter_junit_jupiter_engine_5_5_2.xml" timestamp="1584963471158" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_junit_jupiter_junit_jupiter_params_5_5_2.xml" timestamp="1584963471169" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_junit_platform_junit_platform_commons_1_5_2.xml" timestamp="1584963471178" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_junit_platform_junit_platform_engine_1_5_2.xml" timestamp="1584963471187" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_junit_vintage_junit_vintage_engine_5_5_2.xml" timestamp="1584963471198" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_mockito_mockito_core_3_1_0.xml" timestamp="1584963471212" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_mockito_mockito_junit_jupiter_3_1_0.xml" timestamp="1584963471222" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_mybatis_mybatis_3_4_0.xml" timestamp="1584963471234" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_mybatis_mybatis_spring_1_3_0.xml" timestamp="1584963471249" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_1_1.xml" timestamp="1584963471270" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_1_1.xml" timestamp="1584963471283" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_objenesis_objenesis_2_6.xml" timestamp="1584963471292" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_opentest4j_opentest4j_1_2_0.xml" timestamp="1584963471303" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_ow2_asm_asm_5_0_4.xml" timestamp="1584963471313" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_skyscreamer_jsonassert_1_5_0.xml" timestamp="1584963471324" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" timestamp="1584963471334" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_slf4j_slf4j_api_1_7_30.xml" timestamp="1584963471343" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_springframework_boot_spring_boot_2_2_5_RELEASE.xml" timestamp="1584963471354" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_springframework_boot_spring_boot_autoconfigure_2_2_5_RELEASE.xml" timestamp="1584963471365" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_2_2_5_RELEASE.xml" timestamp="1584963471378" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_jdbc_2_2_5_RELEASE.xml" timestamp="1584963471388" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_json_2_2_5_RELEASE.xml" timestamp="1584963471400" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_logging_2_2_5_RELEASE.xml" timestamp="1584963471410" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_test_2_2_5_RELEASE.xml" timestamp="1584963471421" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_tomcat_2_2_5_RELEASE.xml" timestamp="1584963471431" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_validation_2_2_5_RELEASE.xml" timestamp="1584963471447" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_web_2_2_5_RELEASE.xml" timestamp="1584963471472" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_springframework_boot_spring_boot_test_2_2_5_RELEASE.xml" timestamp="1584963471487" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_2_5_RELEASE.xml" timestamp="1584963471500" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_springframework_spring_aop_5_2_4_RELEASE.xml" timestamp="1584963471513" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_springframework_spring_beans_5_2_4_RELEASE.xml" timestamp="1584963471524" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_springframework_spring_context_5_2_4_RELEASE.xml" timestamp="1584963471534" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_springframework_spring_core_5_2_4_RELEASE.xml" timestamp="1584963471542" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_springframework_spring_expression_5_2_4_RELEASE.xml" timestamp="1584963471553" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_springframework_spring_jcl_5_2_4_RELEASE.xml" timestamp="1584963471561" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_springframework_spring_jdbc_5_2_4_RELEASE.xml" timestamp="1584963471570" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_springframework_spring_test_5_2_4_RELEASE.xml" timestamp="1584963471578" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_springframework_spring_tx_5_2_4_RELEASE.xml" timestamp="1584963471587" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_springframework_spring_web_5_2_4_RELEASE.xml" timestamp="1584963471596" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_springframework_spring_webmvc_5_2_4_RELEASE.xml" timestamp="1584963471604" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_xmlunit_xmlunit_core_2_6_3.xml" timestamp="1584963471613" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\libraries\Maven__org_yaml_snakeyaml_1_25.xml" timestamp="1584963471621" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\misc.xml" timestamp="1584963470683" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\modules.xml" timestamp="1584963470730" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\.idea\workspace.xml" timestamp="1584968643734" />
+    <file path="C:\百度网盘\15-Spring Boot\代码\代码1\springboot_mybatis\springboot_mybatis.iml" timestamp="1584963470660" />
+  </project-files>
+</conversion>
+

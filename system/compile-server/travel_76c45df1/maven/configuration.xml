@@ -1,0 +1,65 @@
+<maven-project-configuration>
+  <resource-processing>
+    <maven-module name="travel">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>com.zhonghuan</groupId>
+            <artifactId>travel</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId />
+        <directory>C:/Users/changjiang/IdeaProjects/travel</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogY2hhbmdqaWFuZw0KQ3JlYXRlZC1CeTogSW50ZWxsaUogSURFQQ0KQnVpbGQtSmRrOiAxLjguMF8xNTINCg0K</manifest>
+        <classpath />
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="travel" />
+          <entry key="build.directory" value="C:\Users\changjiang\IdeaProjects\travel\target" />
+          <entry key="build.finalName" value="travel-1.0-SNAPSHOT" />
+          <entry key="build.outputDirectory" value="C:\Users\changjiang\IdeaProjects\travel\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.testOutputDirectory" value="C:\Users\changjiang\IdeaProjects\travel\target\test-classes" />
+          <entry key="groupId" value="com.zhonghuan" />
+          <entry key="version" value="1.0-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="java.home" value="C:/Program Files/Java/jdk1.8.0_152/jre" />
+          <entry key="java.version" value="java version &quot;1.8.0_152&quot;" />
+          <entry key="log4j.version" value="1.2.12" />
+          <entry key="mybatis.version" value="3.4.5" />
+          <entry key="oracle.version" value="11.2.0.1.0" />
+          <entry key="settings.localRepository" value="C:\localRepository" />
+          <entry key="slf4j.version" value="1.6.6" />
+          <entry key="spring.security.version" value="5.0.1.RELEASE" />
+          <entry key="spring.version" value="5.0.2.RELEASE" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>C:/Users/changjiang/IdeaProjects/travel/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>C:/Users/changjiang/IdeaProjects/travel/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+  </resource-processing>
+  <web-artifact-cfg />
+  <ejb-client-artifact-cfg />
+</maven-project-configuration>

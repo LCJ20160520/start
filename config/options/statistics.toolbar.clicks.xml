@@ -1,0 +1,27 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="AppServers.RunServer@ServersToolWindowContent#Toolbar" count="3" />
+      <entry action="FileChooser.NewFolder@FileChooserDialog" count="2" />
+      <entry action="Maven.AddManagedFiles@Maven Navigator Toolbar" count="1" />
+      <entry action="Maven.DownloadAllGroupPopup@Maven Navigator Toolbar" count="10" />
+      <entry action="Maven.Reimport@Maven Navigator Toolbar" count="25" />
+      <entry action="Maven.ShowSettings@Maven Navigator Toolbar" count="1" />
+      <entry action="Maven.UpdateFolders@Maven Navigator Toolbar" count="1" />
+      <entry action="Rerun@RunnerToolbar" count="29" />
+      <entry action="Run@NavBarToolbar" count="13" />
+      <entry action="Stop@NavBarToolbar" count="3" />
+      <entry action="Stop@RunnerToolbar" count="8" />
+      <entry action="com.intellij.execution.junit2.ui.actions.RerunFailedTestsAction@RunnerToolbar" count="1" />
+      <entry action="com.intellij.find.SearchTextArea$ClearAction@unknown" count="1" />
+      <entry action="com.intellij.find.SearchTextArea$NewLineAction@unknown" count="1" />
+      <entry action="com.intellij.find.editorHeaderActions.NextOccurrenceAction@EditorToolbar" count="8" />
+      <entry action="com.intellij.find.editorHeaderActions.PrevOccurrenceAction@EditorToolbar" count="4" />
+      <entry action="com.intellij.ide.browsers.actions.BaseWebBrowserAction@ContextToolbar" count="11" />
+      <entry action="com.intellij.ide.errorTreeView.NewErrorTreeViewPanel$RerunAction@CompilerMessagesToolbar" count="1" />
+      <entry action="com.intellij.ide.plugins.PluginManagerMain$RefreshAction@PluginManager" count="2" />
+      <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="11" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="24" />
+    </counts>
+  </component>
+</application>

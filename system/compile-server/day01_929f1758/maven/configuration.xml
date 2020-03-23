@@ -1,0 +1,382 @@
+<maven-project-configuration>
+  <resource-processing>
+    <maven-module name="day01">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>com.zhonghuan</groupId>
+            <artifactId>day01</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId />
+        <directory>C:/Users/changjiang/IdeaProjects/day01</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogY2hhbmdqaWFuZw0KQ3JlYXRlZC1CeTogSW50ZWxsaUogSURFQQ0KQnVpbGQtSmRrOiAxLjguMF8xNTINCg0K</manifest>
+        <classpath>spring-context-5.0.2.RELEASE.jar spring-aop-5.0.2.RELEASE.jar spring-beans-5.0.2.RELEASE.jar spring-core-5.0.2.RELEASE.jar spring-jcl-5.0.2.RELEASE.jar spring-expression-5.0.2.RELEASE.jar spring-web-5.0.2.RELEASE.jar spring-webmvc-5.0.2.RELEASE.jar servlet-api-2.5.jar jsp-api-2.0.jar mysql-connector-java-8.0.12.jar protobuf-java-2.6.0.jar</classpath>
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="day01" />
+          <entry key="build.directory" value="C:\Users\changjiang\IdeaProjects\day01\target" />
+          <entry key="build.finalName" value="day01" />
+          <entry key="build.outputDirectory" value="C:\Users\changjiang\IdeaProjects\day01\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.scriptSourceDirectory" value="C:\Users\changjiang\IdeaProjects\day01\src\main\scripts" />
+          <entry key="build.sourceDirectory" value="C:\Users\changjiang\IdeaProjects\day01\src\main\java" />
+          <entry key="build.testOutputDirectory" value="C:\Users\changjiang\IdeaProjects\day01\target\test-classes" />
+          <entry key="build.testSourceDirectory" value="C:\Users\changjiang\IdeaProjects\day01\src\test\java" />
+          <entry key="groupId" value="com.zhonghuan" />
+          <entry key="modelEncoding" value="UTF-8" />
+          <entry key="modelVersion" value="4.0.0" />
+          <entry key="name" value="day01 Maven Webapp" />
+          <entry key="packaging" value="war" />
+          <entry key="pomFile" value="C:\Users\changjiang\IdeaProjects\day01\pom.xml" />
+          <entry key="reporting.outputDirectory" value="C:\Users\changjiang\IdeaProjects\day01\target\site" />
+          <entry key="url" value="http://www.example.com" />
+          <entry key="version" value="1.0-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="java.home" value="C:/Program Files/Java/jdk1.8.0_152/jre" />
+          <entry key="java.version" value="java version &quot;1.8.0_152&quot;" />
+          <entry key="maven.compiler.source" value="1.7" />
+          <entry key="maven.compiler.target" value="1.7" />
+          <entry key="project.build.sourceEncoding" value="UTF-8" />
+          <entry key="settings.localRepository" value="C:\localRepository" />
+          <entry key="spring.version" value="5.0.2.RELEASE" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>C:/Users/changjiang/IdeaProjects/day01/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>C:/Users/changjiang/IdeaProjects/day01/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+    <maven-module name="traveldao">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>com.zhonghuan</groupId>
+            <artifactId>travel.dao</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId>
+          <MavenIdBean>
+            <groupId>com.zhonghuan</groupId>
+            <artifactId>day01</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </parentId>
+        <directory>C:/Users/changjiang/IdeaProjects/day01/traveldao</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogY2hhbmdqaWFuZw0KQ3JlYXRlZC1CeTogSW50ZWxsaUogSURFQQ0KQnVpbGQtSmRrOiAxLjguMF8xNTINCg0K</manifest>
+        <classpath>travel.domain-1.0-SNAPSHOT.jar spring-context-5.0.2.RELEASE.jar spring-aop-5.0.2.RELEASE.jar spring-beans-5.0.2.RELEASE.jar spring-core-5.0.2.RELEASE.jar spring-jcl-5.0.2.RELEASE.jar spring-expression-5.0.2.RELEASE.jar spring-web-5.0.2.RELEASE.jar spring-webmvc-5.0.2.RELEASE.jar servlet-api-2.5.jar jsp-api-2.0.jar mysql-connector-java-8.0.12.jar protobuf-java-2.6.0.jar</classpath>
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="travel.dao" />
+          <entry key="build.directory" value="C:\Users\changjiang\IdeaProjects\day01\traveldao\target" />
+          <entry key="build.finalName" value="day01" />
+          <entry key="build.outputDirectory" value="C:\Users\changjiang\IdeaProjects\day01\traveldao\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.scriptSourceDirectory" value="C:\Users\changjiang\IdeaProjects\day01\traveldao\src\main\scripts" />
+          <entry key="build.sourceDirectory" value="C:\Users\changjiang\IdeaProjects\day01\traveldao\src\main\java" />
+          <entry key="build.testOutputDirectory" value="C:\Users\changjiang\IdeaProjects\day01\traveldao\target\test-classes" />
+          <entry key="build.testSourceDirectory" value="C:\Users\changjiang\IdeaProjects\day01\traveldao\src\test\java" />
+          <entry key="groupId" value="com.zhonghuan" />
+          <entry key="modelEncoding" value="UTF-8" />
+          <entry key="modelVersion" value="4.0.0" />
+          <entry key="packaging" value="jar" />
+          <entry key="parent" value="com.zhonghuan:day01:pom:1.0-SNAPSHOT" />
+          <entry key="parent.artifactId" value="day01" />
+          <entry key="parent.groupId" value="com.zhonghuan" />
+          <entry key="parent.relativePath" value="../pom.xml" />
+          <entry key="parent.version" value="1.0-SNAPSHOT" />
+          <entry key="pomFile" value="C:\Users\changjiang\IdeaProjects\day01\traveldao\pom.xml" />
+          <entry key="reporting.outputDirectory" value="C:\Users\changjiang\IdeaProjects\day01\traveldao\target\site" />
+          <entry key="url" value="http://www.example.com/travel.dao" />
+          <entry key="version" value="1.0-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="java.home" value="C:/Program Files/Java/jdk1.8.0_152/jre" />
+          <entry key="java.version" value="java version &quot;1.8.0_152&quot;" />
+          <entry key="maven.compiler.source" value="1.7" />
+          <entry key="maven.compiler.target" value="1.7" />
+          <entry key="project.build.sourceEncoding" value="UTF-8" />
+          <entry key="settings.localRepository" value="C:\localRepository" />
+          <entry key="spring.version" value="5.0.2.RELEASE" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>C:/Users/changjiang/IdeaProjects/day01/traveldao/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>C:/Users/changjiang/IdeaProjects/day01/traveldao/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+    <maven-module name="traveldomain">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>com.zhonghuan</groupId>
+            <artifactId>travel.domain</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId>
+          <MavenIdBean>
+            <groupId>com.zhonghuan</groupId>
+            <artifactId>day01</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </parentId>
+        <directory>C:/Users/changjiang/IdeaProjects/day01/traveldomain</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogY2hhbmdqaWFuZw0KQ3JlYXRlZC1CeTogSW50ZWxsaUogSURFQQ0KQnVpbGQtSmRrOiAxLjguMF8xNTINCg0K</manifest>
+        <classpath>spring-context-5.0.2.RELEASE.jar spring-aop-5.0.2.RELEASE.jar spring-beans-5.0.2.RELEASE.jar spring-core-5.0.2.RELEASE.jar spring-jcl-5.0.2.RELEASE.jar spring-expression-5.0.2.RELEASE.jar spring-web-5.0.2.RELEASE.jar spring-webmvc-5.0.2.RELEASE.jar servlet-api-2.5.jar jsp-api-2.0.jar mysql-connector-java-8.0.12.jar protobuf-java-2.6.0.jar</classpath>
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="travel.domain" />
+          <entry key="build.directory" value="C:\Users\changjiang\IdeaProjects\day01\traveldomain\target" />
+          <entry key="build.finalName" value="day01" />
+          <entry key="build.outputDirectory" value="C:\Users\changjiang\IdeaProjects\day01\traveldomain\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.scriptSourceDirectory" value="C:\Users\changjiang\IdeaProjects\day01\traveldomain\src\main\scripts" />
+          <entry key="build.sourceDirectory" value="C:\Users\changjiang\IdeaProjects\day01\traveldomain\src\main\java" />
+          <entry key="build.testOutputDirectory" value="C:\Users\changjiang\IdeaProjects\day01\traveldomain\target\test-classes" />
+          <entry key="build.testSourceDirectory" value="C:\Users\changjiang\IdeaProjects\day01\traveldomain\src\test\java" />
+          <entry key="groupId" value="com.zhonghuan" />
+          <entry key="modelEncoding" value="UTF-8" />
+          <entry key="modelVersion" value="4.0.0" />
+          <entry key="packaging" value="jar" />
+          <entry key="parent" value="com.zhonghuan:day01:pom:1.0-SNAPSHOT" />
+          <entry key="parent.artifactId" value="day01" />
+          <entry key="parent.groupId" value="com.zhonghuan" />
+          <entry key="parent.relativePath" value="../pom.xml" />
+          <entry key="parent.version" value="1.0-SNAPSHOT" />
+          <entry key="pomFile" value="C:\Users\changjiang\IdeaProjects\day01\traveldomain\pom.xml" />
+          <entry key="reporting.outputDirectory" value="C:\Users\changjiang\IdeaProjects\day01\traveldomain\target\site" />
+          <entry key="url" value="http://www.example.com/travel.domain" />
+          <entry key="version" value="1.0-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="java.home" value="C:/Program Files/Java/jdk1.8.0_152/jre" />
+          <entry key="java.version" value="java version &quot;1.8.0_152&quot;" />
+          <entry key="maven.compiler.source" value="1.7" />
+          <entry key="maven.compiler.target" value="1.7" />
+          <entry key="project.build.sourceEncoding" value="UTF-8" />
+          <entry key="settings.localRepository" value="C:\localRepository" />
+          <entry key="spring.version" value="5.0.2.RELEASE" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>C:/Users/changjiang/IdeaProjects/day01/traveldomain/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>C:/Users/changjiang/IdeaProjects/day01/traveldomain/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+    <maven-module name="travelservice">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>com.zhonghuan</groupId>
+            <artifactId>travel.service</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId>
+          <MavenIdBean>
+            <groupId>com.zhonghuan</groupId>
+            <artifactId>day01</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </parentId>
+        <directory>C:/Users/changjiang/IdeaProjects/day01/travelservice</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogY2hhbmdqaWFuZw0KQ3JlYXRlZC1CeTogSW50ZWxsaUogSURFQQ0KQnVpbGQtSmRrOiAxLjguMF8xNTINCg0K</manifest>
+        <classpath>travel.dao-1.0-SNAPSHOT.jar travel.domain-1.0-SNAPSHOT.jar spring-context-5.0.2.RELEASE.jar spring-aop-5.0.2.RELEASE.jar spring-beans-5.0.2.RELEASE.jar spring-core-5.0.2.RELEASE.jar spring-jcl-5.0.2.RELEASE.jar spring-expression-5.0.2.RELEASE.jar spring-web-5.0.2.RELEASE.jar spring-webmvc-5.0.2.RELEASE.jar servlet-api-2.5.jar jsp-api-2.0.jar mysql-connector-java-8.0.12.jar protobuf-java-2.6.0.jar</classpath>
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="travel.service" />
+          <entry key="build.directory" value="C:\Users\changjiang\IdeaProjects\day01\travelservice\target" />
+          <entry key="build.finalName" value="day01" />
+          <entry key="build.outputDirectory" value="C:\Users\changjiang\IdeaProjects\day01\travelservice\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.scriptSourceDirectory" value="C:\Users\changjiang\IdeaProjects\day01\travelservice\src\main\scripts" />
+          <entry key="build.sourceDirectory" value="C:\Users\changjiang\IdeaProjects\day01\travelservice\src\main\java" />
+          <entry key="build.testOutputDirectory" value="C:\Users\changjiang\IdeaProjects\day01\travelservice\target\test-classes" />
+          <entry key="build.testSourceDirectory" value="C:\Users\changjiang\IdeaProjects\day01\travelservice\src\test\java" />
+          <entry key="groupId" value="com.zhonghuan" />
+          <entry key="modelEncoding" value="UTF-8" />
+          <entry key="modelVersion" value="4.0.0" />
+          <entry key="packaging" value="jar" />
+          <entry key="parent" value="com.zhonghuan:day01:pom:1.0-SNAPSHOT" />
+          <entry key="parent.artifactId" value="day01" />
+          <entry key="parent.groupId" value="com.zhonghuan" />
+          <entry key="parent.relativePath" value="../pom.xml" />
+          <entry key="parent.version" value="1.0-SNAPSHOT" />
+          <entry key="pomFile" value="C:\Users\changjiang\IdeaProjects\day01\travelservice\pom.xml" />
+          <entry key="reporting.outputDirectory" value="C:\Users\changjiang\IdeaProjects\day01\travelservice\target\site" />
+          <entry key="url" value="http://www.example.com/travel.service" />
+          <entry key="version" value="1.0-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="java.home" value="C:/Program Files/Java/jdk1.8.0_152/jre" />
+          <entry key="java.version" value="java version &quot;1.8.0_152&quot;" />
+          <entry key="maven.compiler.source" value="1.7" />
+          <entry key="maven.compiler.target" value="1.7" />
+          <entry key="project.build.sourceEncoding" value="UTF-8" />
+          <entry key="settings.localRepository" value="C:\localRepository" />
+          <entry key="spring.version" value="5.0.2.RELEASE" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>C:/Users/changjiang/IdeaProjects/day01/travelservice/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>C:/Users/changjiang/IdeaProjects/day01/travelservice/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+    <maven-module name="travelweb">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>com.zhonghuan</groupId>
+            <artifactId>travelweb</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId>
+          <MavenIdBean>
+            <groupId>com.zhonghuan</groupId>
+            <artifactId>day01</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </parentId>
+        <directory>C:/Users/changjiang/IdeaProjects/day01/travelweb</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogY2hhbmdqaWFuZw0KQ3JlYXRlZC1CeTogSW50ZWxsaUogSURFQQ0KQnVpbGQtSmRrOiAxLjguMF8xNTINCg0K</manifest>
+        <classpath>spring-context-5.0.2.RELEASE.jar spring-aop-5.0.2.RELEASE.jar spring-beans-5.0.2.RELEASE.jar spring-core-5.0.2.RELEASE.jar spring-jcl-5.0.2.RELEASE.jar spring-expression-5.0.2.RELEASE.jar spring-web-5.0.2.RELEASE.jar spring-webmvc-5.0.2.RELEASE.jar servlet-api-2.5.jar jsp-api-2.0.jar mysql-connector-java-8.0.12.jar protobuf-java-2.6.0.jar</classpath>
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="travelweb" />
+          <entry key="build.directory" value="C:\Users\changjiang\IdeaProjects\day01\travelweb\target" />
+          <entry key="build.finalName" value="travelweb" />
+          <entry key="build.outputDirectory" value="C:\Users\changjiang\IdeaProjects\day01\travelweb\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.scriptSourceDirectory" value="C:\Users\changjiang\IdeaProjects\day01\travelweb\src\main\scripts" />
+          <entry key="build.sourceDirectory" value="C:\Users\changjiang\IdeaProjects\day01\travelweb\src\main\java" />
+          <entry key="build.testOutputDirectory" value="C:\Users\changjiang\IdeaProjects\day01\travelweb\target\test-classes" />
+          <entry key="build.testSourceDirectory" value="C:\Users\changjiang\IdeaProjects\day01\travelweb\src\test\java" />
+          <entry key="groupId" value="com.zhonghuan" />
+          <entry key="modelEncoding" value="UTF-8" />
+          <entry key="modelVersion" value="4.0.0" />
+          <entry key="name" value="travelweb Maven Webapp" />
+          <entry key="packaging" value="war" />
+          <entry key="parent" value="com.zhonghuan:day01:pom:1.0-SNAPSHOT" />
+          <entry key="parent.artifactId" value="day01" />
+          <entry key="parent.groupId" value="com.zhonghuan" />
+          <entry key="parent.relativePath" value="../pom.xml" />
+          <entry key="parent.version" value="1.0-SNAPSHOT" />
+          <entry key="pomFile" value="C:\Users\changjiang\IdeaProjects\day01\travelweb\pom.xml" />
+          <entry key="reporting.outputDirectory" value="C:\Users\changjiang\IdeaProjects\day01\travelweb\target\site" />
+          <entry key="url" value="http://www.example.com" />
+          <entry key="version" value="1.0-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="java.home" value="C:/Program Files/Java/jdk1.8.0_152/jre" />
+          <entry key="java.version" value="java version &quot;1.8.0_152&quot;" />
+          <entry key="maven.compiler.source" value="1.7" />
+          <entry key="maven.compiler.target" value="1.7" />
+          <entry key="project.build.sourceEncoding" value="UTF-8" />
+          <entry key="settings.localRepository" value="C:\localRepository" />
+          <entry key="spring.version" value="5.0.2.RELEASE" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>C:/Users/changjiang/IdeaProjects/day01/travelweb/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>C:/Users/changjiang/IdeaProjects/day01/travelweb/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+  </resource-processing>
+  <web-artifact-cfg />
+  <ejb-client-artifact-cfg />
+</maven-project-configuration>

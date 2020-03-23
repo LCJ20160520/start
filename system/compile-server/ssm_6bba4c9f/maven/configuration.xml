@@ -1,0 +1,77 @@
+<maven-project-configuration>
+  <resource-processing>
+    <maven-module name="ssm">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>cn.itcast</groupId>
+            <artifactId>ssm</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId />
+        <directory>C:/百度网盘/ssm/ssm</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogY2hhbmdqaWFuZw0KQ3JlYXRlZC1CeTogSW50ZWxsaUogSURFQQ0KQnVpbGQtSmRrOiAxLjguMF8xNTINCg0K</manifest>
+        <classpath>aspectjweaver-1.6.8.jar spring-aop-5.0.2.RELEASE.jar spring-beans-5.0.2.RELEASE.jar spring-core-5.0.2.RELEASE.jar spring-jcl-5.0.2.RELEASE.jar spring-context-5.0.2.RELEASE.jar spring-expression-5.0.2.RELEASE.jar spring-web-5.0.2.RELEASE.jar spring-webmvc-5.0.2.RELEASE.jar spring-test-5.0.2.RELEASE.jar spring-tx-5.0.2.RELEASE.jar spring-jdbc-5.0.2.RELEASE.jar junit-4.12.jar hamcrest-core-1.3.jar mysql-connector-java-8.0.12.jar protobuf-java-2.6.0.jar servlet-api-2.5.jar jsp-api-2.0.jar jstl-1.2.jar log4j-1.2.12.jar slf4j-api-1.6.6.jar slf4j-log4j12-1.6.6.jar mybatis-3.4.5.jar mybatis-spring-1.3.0.jar c3p0-0.9.1.2.jar</classpath>
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="ssm" />
+          <entry key="build.directory" value="C:\百度网盘\ssm\ssm\target" />
+          <entry key="build.finalName" value="ssm" />
+          <entry key="build.outputDirectory" value="C:\百度网盘\ssm\ssm\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.scriptSourceDirectory" value="C:\百度网盘\ssm\ssm\src\main\scripts" />
+          <entry key="build.sourceDirectory" value="C:\百度网盘\ssm\ssm\src\main\java" />
+          <entry key="build.testOutputDirectory" value="C:\百度网盘\ssm\ssm\target\test-classes" />
+          <entry key="build.testSourceDirectory" value="C:\百度网盘\ssm\ssm\src\test\java" />
+          <entry key="groupId" value="cn.itcast" />
+          <entry key="modelEncoding" value="UTF-8" />
+          <entry key="modelVersion" value="4.0.0" />
+          <entry key="name" value="ssm Maven Webapp" />
+          <entry key="packaging" value="war" />
+          <entry key="pomFile" value="C:\百度网盘\ssm\ssm\pom.xml" />
+          <entry key="reporting.outputDirectory" value="C:\百度网盘\ssm\ssm\target\site" />
+          <entry key="url" value="http://www.example.com" />
+          <entry key="version" value="1.0-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="java.home" value="C:/Program Files/Java/jdk1.8.0_152/jre" />
+          <entry key="java.version" value="java version &quot;1.8.0_152&quot;" />
+          <entry key="log4j.version" value="1.2.12" />
+          <entry key="maven.compiler.source" value="1.8" />
+          <entry key="maven.compiler.target" value="1.8" />
+          <entry key="mybatis.version" value="3.4.5" />
+          <entry key="mysql.version" value="8.0.12" />
+          <entry key="project.build.sourceEncoding" value="UTF-8" />
+          <entry key="settings.localRepository" value="C:\localRepository" />
+          <entry key="slf4j.version" value="1.6.6" />
+          <entry key="spring.version" value="5.0.2.RELEASE" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>C:/百度网盘/ssm/ssm/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>C:/百度网盘/ssm/ssm/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+  </resource-processing>
+  <web-artifact-cfg />
+  <ejb-client-artifact-cfg />
+</maven-project-configuration>

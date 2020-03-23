@@ -1,0 +1,25 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Logging Failure Analysis Reporter" />
+      <item value="enabled" />
+      <item value="report" />
+      <item value="conditions" />
+      <item value="deprecated" />
+      <item value="during" />
+      <item value="details" />
+      <item value="Y" />
+      <item value="embedded" />
+      <item value="Consider" />
+      <item value="following" />
+      <item value="version" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="12" />
+        <entry key="SPANISH" value="1" />
+      </map>
+    </option>
+  </component>
+</application>
