@@ -1,0 +1,9 @@
+30-Mar-2020 00:04:10.268 警告 [main] org.apache.catalina.core.StandardServer.await StandardServer.await: Invalid command '' received
+30-Mar-2020 00:04:15.492 信息 [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+30-Mar-2020 00:04:15.492 信息 [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+30-Mar-2020 00:04:15.697 信息 [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+30-Mar-2020 00:04:15.893 信息 [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+30-Mar-2020 00:04:15.952 信息 [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+30-Mar-2020 00:04:15.953 信息 [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+30-Mar-2020 00:04:15.954 信息 [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+30-Mar-2020 00:04:15.955 信息 [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]

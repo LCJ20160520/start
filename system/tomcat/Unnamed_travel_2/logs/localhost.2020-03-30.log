@@ -1,0 +1,402 @@
+30-Mar-2020 00:04:34.748 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+30-Mar-2020 00:04:34.899 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+30-Mar-2020 00:04:38.163 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 00:07:54.697 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 00:07:54.757 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+30-Mar-2020 10:40:47.059 信息 [RMI TCP Connection(4)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+30-Mar-2020 10:40:47.304 信息 [RMI TCP Connection(4)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+30-Mar-2020 10:40:52.359 信息 [RMI TCP Connection(4)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 10:42:06.725 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 10:42:06.732 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+30-Mar-2020 10:42:44.359 信息 [RMI TCP Connection(3)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+30-Mar-2020 10:42:44.624 信息 [RMI TCP Connection(3)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+30-Mar-2020 10:42:48.868 信息 [RMI TCP Connection(3)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 10:43:48.580 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 10:43:48.648 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+30-Mar-2020 10:44:11.931 信息 [RMI TCP Connection(3)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+30-Mar-2020 10:44:12.171 信息 [RMI TCP Connection(3)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+30-Mar-2020 10:44:17.352 信息 [RMI TCP Connection(3)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 18:54:06.681 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+30-Mar-2020 18:54:07.000 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+30-Mar-2020 18:54:10.547 严重 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.core.StandardContext.filterStart Exception starting filter [springSecurityFilterChain]
+ org.springframework.beans.factory.NoSuchBeanDefinitionException: No bean named 'springSecurityFilterChain' available
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeanDefinition(DefaultListableBeanFactory.java:687)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getMergedLocalBeanDefinition(AbstractBeanFactory.java:1205)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:292)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:205)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1091)
+	at org.springframework.web.filter.DelegatingFilterProxy.initDelegate(DelegatingFilterProxy.java:337)
+	at org.springframework.web.filter.DelegatingFilterProxy.initFilterBean(DelegatingFilterProxy.java:242)
+	at org.springframework.web.filter.GenericFilterBean.init(GenericFilterBean.java:241)
+	at org.apache.catalina.core.ApplicationFilterConfig.initFilter(ApplicationFilterConfig.java:285)
+	at org.apache.catalina.core.ApplicationFilterConfig.getFilter(ApplicationFilterConfig.java:266)
+	at org.apache.catalina.core.ApplicationFilterConfig.<init>(ApplicationFilterConfig.java:108)
+	at org.apache.catalina.core.StandardContext.filterStart(StandardContext.java:4637)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5282)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:754)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:734)
+	at org.apache.catalina.startup.HostConfig.manageApp(HostConfig.java:1736)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.tomcat.util.modeler.BaseModelMBean.invoke(BaseModelMBean.java:300)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.invoke(DefaultMBeanServerInterceptor.java:819)
+	at com.sun.jmx.mbeanserver.JmxMBeanServer.invoke(JmxMBeanServer.java:801)
+	at org.apache.catalina.mbeans.MBeanFactory.createStandardContext(MBeanFactory.java:482)
+	at org.apache.catalina.mbeans.MBeanFactory.createStandardContext(MBeanFactory.java:431)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.tomcat.util.modeler.BaseModelMBean.invoke(BaseModelMBean.java:300)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.invoke(DefaultMBeanServerInterceptor.java:819)
+	at com.sun.jmx.mbeanserver.JmxMBeanServer.invoke(JmxMBeanServer.java:801)
+	at javax.management.remote.rmi.RMIConnectionImpl.doOperation(RMIConnectionImpl.java:1468)
+	at javax.management.remote.rmi.RMIConnectionImpl.access$300(RMIConnectionImpl.java:76)
+	at javax.management.remote.rmi.RMIConnectionImpl$PrivilegedOperation.run(RMIConnectionImpl.java:1309)
+	at javax.management.remote.rmi.RMIConnectionImpl.doPrivilegedOperation(RMIConnectionImpl.java:1401)
+	at javax.management.remote.rmi.RMIConnectionImpl.invoke(RMIConnectionImpl.java:829)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at sun.rmi.server.UnicastServerRef.dispatch(UnicastServerRef.java:357)
+	at sun.rmi.transport.Transport$1.run(Transport.java:200)
+	at sun.rmi.transport.Transport$1.run(Transport.java:197)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at sun.rmi.transport.Transport.serviceCall(Transport.java:196)
+	at sun.rmi.transport.tcp.TCPTransport.handleMessages(TCPTransport.java:568)
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run0(TCPTransport.java:826)
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.lambda$run$0(TCPTransport.java:683)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run(TCPTransport.java:682)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+30-Mar-2020 18:54:10.554 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+30-Mar-2020 19:14:14.987 信息 [RMI TCP Connection(4)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+30-Mar-2020 19:14:15.331 信息 [RMI TCP Connection(4)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+30-Mar-2020 19:14:22.050 信息 [RMI TCP Connection(4)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 19:45:55.210 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 19:45:55.296 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+30-Mar-2020 19:47:10.215 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+30-Mar-2020 19:47:10.592 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+30-Mar-2020 19:47:20.799 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 20:23:15.517 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 20:23:15.536 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+30-Mar-2020 20:23:43.714 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+30-Mar-2020 20:23:43.964 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+30-Mar-2020 20:23:47.334 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 20:24:32.183 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 20:24:32.210 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+30-Mar-2020 20:24:50.043 信息 [RMI TCP Connection(3)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+30-Mar-2020 20:24:50.206 信息 [RMI TCP Connection(3)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+30-Mar-2020 20:24:55.757 信息 [RMI TCP Connection(3)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 20:30:08.560 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 20:30:08.586 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+30-Mar-2020 20:30:33.705 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+30-Mar-2020 20:30:33.927 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+30-Mar-2020 20:30:38.553 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 20:36:55.838 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 20:36:55.853 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+30-Mar-2020 20:37:16.657 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+30-Mar-2020 20:37:16.815 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+30-Mar-2020 20:37:21.666 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 20:39:32.738 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 20:39:32.760 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+30-Mar-2020 20:39:53.084 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+30-Mar-2020 20:39:53.257 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+30-Mar-2020 20:39:56.656 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 20:41:38.858 严重 [http-nio-8080-exec-7] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [/pages/failer.jsp (line: [119], column: [33]) Expecting "jsp:param" standard action with "name" and "value" attributes] with root cause
+ org.apache.jasper.JasperException: /pages/failer.jsp (line: [119], column: [33]) Expecting "jsp:param" standard action with "name" and "value" attributes
+	at org.apache.jasper.compiler.DefaultErrorHandler.jspError(DefaultErrorHandler.java:41)
+	at org.apache.jasper.compiler.ErrorDispatcher.dispatch(ErrorDispatcher.java:291)
+	at org.apache.jasper.compiler.ErrorDispatcher.jspError(ErrorDispatcher.java:97)
+	at org.apache.jasper.compiler.Parser.parseParam(Parser.java:842)
+	at org.apache.jasper.compiler.Parser.parseBody(Parser.java:1694)
+	at org.apache.jasper.compiler.Parser.parseOptionalBody(Parser.java:1019)
+	at org.apache.jasper.compiler.Parser.parseInclude(Parser.java:871)
+	at org.apache.jasper.compiler.Parser.parseStandardAction(Parser.java:1133)
+	at org.apache.jasper.compiler.Parser.parseElements(Parser.java:1472)
+	at org.apache.jasper.compiler.Parser.parse(Parser.java:145)
+	at org.apache.jasper.compiler.ParserController.doParse(ParserController.java:244)
+	at org.apache.jasper.compiler.ParserController.parse(ParserController.java:105)
+	at org.apache.jasper.compiler.Compiler.generateJava(Compiler.java:203)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:374)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:351)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:335)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:595)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:368)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:209)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:178)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:357)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:270)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:496)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:790)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1468)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+30-Mar-2020 20:44:01.055 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 20:44:01.087 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+30-Mar-2020 20:44:21.894 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+30-Mar-2020 20:44:22.046 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+30-Mar-2020 20:44:25.739 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 20:45:56.801 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 20:45:56.828 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+30-Mar-2020 20:47:27.307 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+30-Mar-2020 20:47:27.512 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+30-Mar-2020 20:47:31.663 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 20:50:05.470 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 20:50:05.477 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+30-Mar-2020 20:50:23.704 信息 [RMI TCP Connection(3)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+30-Mar-2020 20:50:23.862 信息 [RMI TCP Connection(3)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+30-Mar-2020 20:50:27.119 信息 [RMI TCP Connection(3)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 20:51:45.154 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 20:51:45.189 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+30-Mar-2020 20:52:06.500 信息 [RMI TCP Connection(3)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+30-Mar-2020 20:52:06.814 信息 [RMI TCP Connection(3)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+30-Mar-2020 20:52:11.405 信息 [RMI TCP Connection(3)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 20:54:24.802 严重 [http-nio-8080-exec-3] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [/pages/failer.jsp (line: [119], column: [33]) Expecting "jsp:param" standard action with "name" and "value" attributes] with root cause
+ org.apache.jasper.JasperException: /pages/failer.jsp (line: [119], column: [33]) Expecting "jsp:param" standard action with "name" and "value" attributes
+	at org.apache.jasper.compiler.DefaultErrorHandler.jspError(DefaultErrorHandler.java:41)
+	at org.apache.jasper.compiler.ErrorDispatcher.dispatch(ErrorDispatcher.java:291)
+	at org.apache.jasper.compiler.ErrorDispatcher.jspError(ErrorDispatcher.java:97)
+	at org.apache.jasper.compiler.Parser.parseParam(Parser.java:842)
+	at org.apache.jasper.compiler.Parser.parseBody(Parser.java:1694)
+	at org.apache.jasper.compiler.Parser.parseOptionalBody(Parser.java:1019)
+	at org.apache.jasper.compiler.Parser.parseInclude(Parser.java:871)
+	at org.apache.jasper.compiler.Parser.parseStandardAction(Parser.java:1133)
+	at org.apache.jasper.compiler.Parser.parseElements(Parser.java:1472)
+	at org.apache.jasper.compiler.Parser.parse(Parser.java:145)
+	at org.apache.jasper.compiler.ParserController.doParse(ParserController.java:244)
+	at org.apache.jasper.compiler.ParserController.parse(ParserController.java:105)
+	at org.apache.jasper.compiler.Compiler.generateJava(Compiler.java:203)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:374)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:351)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:335)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:595)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:368)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:209)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:178)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:357)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:270)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:496)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:790)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1468)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+30-Mar-2020 20:56:49.735 严重 [http-nio-8080-exec-8] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [/pages/failer.jsp (line: [119], column: [33]) Expecting "jsp:param" standard action with "name" and "value" attributes] with root cause
+ org.apache.jasper.JasperException: /pages/failer.jsp (line: [119], column: [33]) Expecting "jsp:param" standard action with "name" and "value" attributes
+	at org.apache.jasper.compiler.DefaultErrorHandler.jspError(DefaultErrorHandler.java:41)
+	at org.apache.jasper.compiler.ErrorDispatcher.dispatch(ErrorDispatcher.java:291)
+	at org.apache.jasper.compiler.ErrorDispatcher.jspError(ErrorDispatcher.java:97)
+	at org.apache.jasper.compiler.Parser.parseParam(Parser.java:842)
+	at org.apache.jasper.compiler.Parser.parseBody(Parser.java:1694)
+	at org.apache.jasper.compiler.Parser.parseOptionalBody(Parser.java:1019)
+	at org.apache.jasper.compiler.Parser.parseInclude(Parser.java:871)
+	at org.apache.jasper.compiler.Parser.parseStandardAction(Parser.java:1133)
+	at org.apache.jasper.compiler.Parser.parseElements(Parser.java:1472)
+	at org.apache.jasper.compiler.Parser.parse(Parser.java:145)
+	at org.apache.jasper.compiler.ParserController.doParse(ParserController.java:244)
+	at org.apache.jasper.compiler.ParserController.parse(ParserController.java:105)
+	at org.apache.jasper.compiler.Compiler.generateJava(Compiler.java:203)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:374)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:351)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:335)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:595)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:368)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:209)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:178)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:357)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:270)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:496)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:790)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1468)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+30-Mar-2020 20:59:26.030 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 20:59:26.056 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+30-Mar-2020 20:59:45.849 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+30-Mar-2020 20:59:46.040 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+30-Mar-2020 20:59:50.782 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 21:00:02.579 严重 [http-nio-8080-exec-5] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [/pages/failer.jsp (line: [119], column: [33]) Expecting "jsp:param" standard action with "name" and "value" attributes] with root cause
+ org.apache.jasper.JasperException: /pages/failer.jsp (line: [119], column: [33]) Expecting "jsp:param" standard action with "name" and "value" attributes
+	at org.apache.jasper.compiler.DefaultErrorHandler.jspError(DefaultErrorHandler.java:41)
+	at org.apache.jasper.compiler.ErrorDispatcher.dispatch(ErrorDispatcher.java:291)
+	at org.apache.jasper.compiler.ErrorDispatcher.jspError(ErrorDispatcher.java:97)
+	at org.apache.jasper.compiler.Parser.parseParam(Parser.java:842)
+	at org.apache.jasper.compiler.Parser.parseBody(Parser.java:1694)
+	at org.apache.jasper.compiler.Parser.parseOptionalBody(Parser.java:1019)
+	at org.apache.jasper.compiler.Parser.parseInclude(Parser.java:871)
+	at org.apache.jasper.compiler.Parser.parseStandardAction(Parser.java:1133)
+	at org.apache.jasper.compiler.Parser.parseElements(Parser.java:1472)
+	at org.apache.jasper.compiler.Parser.parse(Parser.java:145)
+	at org.apache.jasper.compiler.ParserController.doParse(ParserController.java:244)
+	at org.apache.jasper.compiler.ParserController.parse(ParserController.java:105)
+	at org.apache.jasper.compiler.Compiler.generateJava(Compiler.java:203)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:374)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:351)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:335)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:595)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:368)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:209)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:178)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:357)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:270)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:496)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:790)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1468)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+30-Mar-2020 21:01:15.063 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 21:01:15.077 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+30-Mar-2020 21:01:35.191 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+30-Mar-2020 21:01:35.356 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+30-Mar-2020 21:01:38.625 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 21:03:52.173 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 21:03:52.183 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+30-Mar-2020 21:04:10.159 信息 [RMI TCP Connection(3)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+30-Mar-2020 21:04:10.313 信息 [RMI TCP Connection(3)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+30-Mar-2020 21:04:13.842 信息 [RMI TCP Connection(3)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 21:06:28.573 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 21:06:28.603 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+30-Mar-2020 21:06:47.235 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+30-Mar-2020 21:06:47.395 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+30-Mar-2020 21:06:51.005 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 21:15:07.131 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 21:15:07.168 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+30-Mar-2020 21:15:38.081 信息 [RMI TCP Connection(4)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+30-Mar-2020 21:15:38.409 信息 [RMI TCP Connection(4)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+30-Mar-2020 21:15:43.851 信息 [RMI TCP Connection(4)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 21:16:27.065 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 21:16:27.091 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+30-Mar-2020 21:16:44.538 信息 [RMI TCP Connection(3)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+30-Mar-2020 21:16:44.731 信息 [RMI TCP Connection(3)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+30-Mar-2020 21:16:47.869 信息 [RMI TCP Connection(3)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 21:17:59.985 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 21:18:00.008 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+30-Mar-2020 21:18:18.334 信息 [RMI TCP Connection(2)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+30-Mar-2020 21:18:18.494 信息 [RMI TCP Connection(2)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+30-Mar-2020 21:18:21.905 信息 [RMI TCP Connection(2)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 21:18:45.142 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 21:18:45.168 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+30-Mar-2020 21:19:04.242 信息 [RMI TCP Connection(3)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+30-Mar-2020 21:19:04.418 信息 [RMI TCP Connection(3)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+30-Mar-2020 21:19:08.143 信息 [RMI TCP Connection(3)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 21:44:50.657 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+30-Mar-2020 21:44:50.722 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+30-Mar-2020 21:45:14.908 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+30-Mar-2020 21:45:15.247 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+30-Mar-2020 21:45:19.980 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'dispatcherServlet'

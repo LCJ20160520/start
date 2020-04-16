@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="org.springframework.beans.factory.BeanFactory.getBean(name)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

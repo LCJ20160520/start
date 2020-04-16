@@ -1,0 +1,3 @@
+31-Mar-2020 10:09:57.271 信息 [RMI TCP Connection(4)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+31-Mar-2020 10:09:57.423 信息 [RMI TCP Connection(4)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+31-Mar-2020 10:10:00.880 信息 [RMI TCP Connection(4)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'dispatcherServlet'

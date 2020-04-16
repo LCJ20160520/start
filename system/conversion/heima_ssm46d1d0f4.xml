@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="build-jar-configurations-to-artifacts" />
+    <converter id="detach-cdi-facet-from-module" />
+    <converter id="detach-jsf-facet-from-module" />
+    <converter id="google-app-engine-facet" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="gwt-packaging" />
+    <converter id="javaee-module-to-facets" />
+    <converter id="javaee-packaging-to-artifacts" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="nodejs-remote-debug-configuration-converter" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\.idea\artifacts\heima_ssm_web_war.xml" timestamp="1585491901191" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\.idea\artifacts\heima_ssm_web_war_exploded.xml" timestamp="1585497424227" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\.idea\compiler.xml" timestamp="1585491901219" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\.idea\encodings.xml" timestamp="1585491901233" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\.idea\libraries\Maven__c3p0_c3p0_0_9_1_2.xml" timestamp="1585491901266" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\.idea\libraries\Maven__com_github_jsqlparser_jsqlparser_1_0.xml" timestamp="1585491901278" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\.idea\libraries\Maven__com_github_pagehelper_pagehelper_5_1_2.xml" timestamp="1585491901288" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\.idea\libraries\Maven__javax_annotation_jsr250_api_1_0.xml" timestamp="1585491901308" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\.idea\libraries\Maven__javax_servlet_javax_servlet_api_3_1_0.xml" timestamp="1585491901319" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\.idea\libraries\Maven__javax_servlet_jsp_jsp_api_2_0.xml" timestamp="1585491901333" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\.idea\libraries\Maven__jstl_jstl_1_2.xml" timestamp="1585491901344" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\.idea\libraries\Maven__junit_junit_4_11.xml" timestamp="1585491901356" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\.idea\libraries\Maven__junit_junit_4_12.xml" timestamp="1585491901366" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\.idea\libraries\Maven__log4j_log4j_1_2_12.xml" timestamp="1585491901380" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\.idea\libraries\Maven__org_aspectj_aspectjweaver_1_6_8.xml" timestamp="1585491901393" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\.idea\libraries\Maven__org_hamcrest_hamcrest_core_1_3.xml" timestamp="1585491901406" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\.idea\libraries\Maven__org_mybatis_mybatis_3_4_5.xml" timestamp="1585491901418" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\.idea\libraries\Maven__org_mybatis_mybatis_spring_1_3_0.xml" timestamp="1585491901432" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\.idea\libraries\Maven__org_slf4j_slf4j_api_1_6_6.xml" timestamp="1585491901446" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\.idea\libraries\Maven__org_slf4j_slf4j_log4j12_1_6_6.xml" timestamp="1585491901457" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\.idea\libraries\Maven__org_springframework_security_spring_security_acl_5_0_1_RELEASE.xml" timestamp="1585491901469" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\.idea\libraries\Maven__org_springframework_security_spring_security_config_5_0_1_RELEASE.xml" timestamp="1585491901479" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\.idea\libraries\Maven__org_springframework_security_spring_security_core_5_0_1_RELEASE.xml" timestamp="1585491901492" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\.idea\libraries\Maven__org_springframework_security_spring_security_taglibs_5_0_1_RELEASE.xml" timestamp="1585491901512" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\.idea\libraries\Maven__org_springframework_security_spring_security_web_5_0_1_RELEASE.xml" timestamp="1585491901525" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\.idea\libraries\Maven__org_springframework_spring_aop_5_0_2_RELEASE.xml" timestamp="1585491901536" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\.idea\libraries\Maven__org_springframework_spring_beans_5_0_2_RELEASE.xml" timestamp="1585491901549" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\.idea\libraries\Maven__org_springframework_spring_context_5_0_2_RELEASE.xml" timestamp="1585491901566" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\.idea\libraries\Maven__org_springframework_spring_context_support_5_0_2_RELEASE.xml" timestamp="1585491901582" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\.idea\libraries\Maven__org_springframework_spring_core_5_0_2_RELEASE.xml" timestamp="1585491901599" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\.idea\libraries\Maven__org_springframework_spring_expression_5_0_2_RELEASE.xml" timestamp="1585491901614" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\.idea\libraries\Maven__org_springframework_spring_jcl_5_0_2_RELEASE.xml" timestamp="1585491901633" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\.idea\libraries\Maven__org_springframework_spring_jdbc_5_0_2_RELEASE.xml" timestamp="1585491901650" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\.idea\libraries\Maven__org_springframework_spring_orm_5_0_2_RELEASE.xml" timestamp="1585491901668" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\.idea\libraries\Maven__org_springframework_spring_test_5_0_2_RELEASE.xml" timestamp="1585491901679" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\.idea\libraries\Maven__org_springframework_spring_tx_5_0_2_RELEASE.xml" timestamp="1585491901690" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\.idea\libraries\Maven__org_springframework_spring_web_5_0_2_RELEASE.xml" timestamp="1585491901700" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\.idea\libraries\Maven__org_springframework_spring_webmvc_5_0_2_RELEASE.xml" timestamp="1585491901711" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\.idea\misc.xml" timestamp="1585491901161" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\.idea\modules.xml" timestamp="1585491901248" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\.idea\workspace.xml" timestamp="1585572311376" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\heima_ssm.iml" timestamp="1585497424127" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\heima_ssm_dao\heima_ssm_dao.iml" timestamp="1585497424197" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\heima_ssm_domain\heima_ssm_domain.iml" timestamp="1585497424100" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\heima_ssm_service\heima_ssm_service.iml" timestamp="1585497424119" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\heima_ssm_utils\heima_ssm_utils.iml" timestamp="1585497424110" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\heima_ssm\heima_ssm_web\heima_ssm_web.iml" timestamp="1585497424162" />
+  </project-files>
+</conversion>
+

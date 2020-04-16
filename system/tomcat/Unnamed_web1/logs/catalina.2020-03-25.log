@@ -1,0 +1,196 @@
+25-Mar-2020 11:43:51.476 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.31
+25-Mar-2020 11:43:51.486 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 27 2018 20:24:25 UTC
+25-Mar-2020 11:43:51.486 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.31.0
+25-Mar-2020 11:43:51.486 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+25-Mar-2020 11:43:51.486 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+25-Mar-2020 11:43:51.486 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+25-Mar-2020 11:43:51.486 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_152\jre
+25-Mar-2020 11:43:51.486 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_152-b16
+25-Mar-2020 11:43:51.486 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+25-Mar-2020 11:43:51.486 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\changjiang\.IntelliJIdea2017.3\system\tomcat\Unnamed_web1
+25-Mar-2020 11:43:51.486 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\apache-tomcat-8.5.31
+25-Mar-2020 11:43:51.486 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\changjiang\.IntelliJIdea2017.3\system\tomcat\Unnamed_web1\conf\logging.properties
+25-Mar-2020 11:43:51.486 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+25-Mar-2020 11:43:51.486 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote=
+25-Mar-2020 11:43:51.486 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.port=1099
+25-Mar-2020 11:43:51.486 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.ssl=false
+25-Mar-2020 11:43:51.486 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.authenticate=false
+25-Mar-2020 11:43:51.486 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.rmi.server.hostname=127.0.0.1
+25-Mar-2020 11:43:51.486 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+25-Mar-2020 11:43:51.486 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+25-Mar-2020 11:43:51.486 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+25-Mar-2020 11:43:51.486 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\changjiang\.IntelliJIdea2017.3\system\tomcat\Unnamed_web1
+25-Mar-2020 11:43:51.486 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\apache-tomcat-8.5.31
+25-Mar-2020 11:43:51.486 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\apache-tomcat-8.5.31\temp
+25-Mar-2020 11:43:51.486 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.16] using APR version [1.6.3].
+25-Mar-2020 11:43:51.486 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+25-Mar-2020 11:43:51.486 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+25-Mar-2020 11:43:52.090 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.0.2m  2 Nov 2017]
+25-Mar-2020 11:43:52.216 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+25-Mar-2020 11:43:52.226 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+25-Mar-2020 11:43:52.236 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+25-Mar-2020 11:43:52.236 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+25-Mar-2020 11:43:52.236 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1101 ms
+25-Mar-2020 11:43:52.266 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+25-Mar-2020 11:43:52.266 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.31
+25-Mar-2020 11:43:52.286 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+25-Mar-2020 11:43:52.296 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+25-Mar-2020 11:43:52.296 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 53 ms
+25-Mar-2020 11:43:56.254 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+25-Mar-2020 11:44:02.290 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\apache-tomcat-8.5.31\webapps\manager]
+25-Mar-2020 11:44:02.386 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\apache-tomcat-8.5.31\webapps\manager] has finished in [95] ms
+25-Mar-2020 11:49:17.261 信息 [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+25-Mar-2020 11:49:17.262 信息 [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+25-Mar-2020 11:49:17.448 信息 [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+25-Mar-2020 11:49:17.609 信息 [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+25-Mar-2020 11:49:17.641 信息 [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+25-Mar-2020 11:49:17.642 信息 [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+25-Mar-2020 11:49:17.644 信息 [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+25-Mar-2020 11:49:17.645 信息 [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+25-Mar-2020 11:49:28.622 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.31
+25-Mar-2020 11:49:28.624 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 27 2018 20:24:25 UTC
+25-Mar-2020 11:49:28.624 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.31.0
+25-Mar-2020 11:49:28.625 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+25-Mar-2020 11:49:28.625 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+25-Mar-2020 11:49:28.625 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+25-Mar-2020 11:49:28.625 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_152\jre
+25-Mar-2020 11:49:28.625 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_152-b16
+25-Mar-2020 11:49:28.625 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+25-Mar-2020 11:49:28.625 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\changjiang\.IntelliJIdea2017.3\system\tomcat\Unnamed_web1
+25-Mar-2020 11:49:28.625 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\apache-tomcat-8.5.31
+25-Mar-2020 11:49:28.625 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\changjiang\.IntelliJIdea2017.3\system\tomcat\Unnamed_web1\conf\logging.properties
+25-Mar-2020 11:49:28.625 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+25-Mar-2020 11:49:28.626 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote=
+25-Mar-2020 11:49:28.626 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.port=1099
+25-Mar-2020 11:49:28.626 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.ssl=false
+25-Mar-2020 11:49:28.626 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.authenticate=false
+25-Mar-2020 11:49:28.626 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.rmi.server.hostname=127.0.0.1
+25-Mar-2020 11:49:28.626 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+25-Mar-2020 11:49:28.626 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+25-Mar-2020 11:49:28.626 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+25-Mar-2020 11:49:28.626 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\changjiang\.IntelliJIdea2017.3\system\tomcat\Unnamed_web1
+25-Mar-2020 11:49:28.627 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\apache-tomcat-8.5.31
+25-Mar-2020 11:49:28.627 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\apache-tomcat-8.5.31\temp
+25-Mar-2020 11:49:28.627 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.16] using APR version [1.6.3].
+25-Mar-2020 11:49:28.627 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+25-Mar-2020 11:49:28.627 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+25-Mar-2020 11:49:29.205 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.0.2m  2 Nov 2017]
+25-Mar-2020 11:49:29.314 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+25-Mar-2020 11:49:29.328 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+25-Mar-2020 11:49:29.344 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+25-Mar-2020 11:49:29.369 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+25-Mar-2020 11:49:29.370 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1264 ms
+25-Mar-2020 11:49:29.397 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+25-Mar-2020 11:49:29.397 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.31
+25-Mar-2020 11:49:29.409 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+25-Mar-2020 11:49:29.423 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+25-Mar-2020 11:49:29.425 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 55 ms
+25-Mar-2020 11:49:32.879 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+25-Mar-2020 11:49:39.411 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\apache-tomcat-8.5.31\webapps\manager]
+25-Mar-2020 11:49:39.467 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\apache-tomcat-8.5.31\webapps\manager] has finished in [55] ms
+25-Mar-2020 12:06:49.375 信息 [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+25-Mar-2020 12:06:49.375 信息 [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+25-Mar-2020 12:06:49.545 信息 [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+25-Mar-2020 12:06:49.702 信息 [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+25-Mar-2020 12:06:49.730 信息 [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+25-Mar-2020 12:06:49.732 信息 [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+25-Mar-2020 12:06:49.733 信息 [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+25-Mar-2020 12:06:49.734 信息 [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+25-Mar-2020 12:07:00.585 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.31
+25-Mar-2020 12:07:00.588 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 27 2018 20:24:25 UTC
+25-Mar-2020 12:07:00.588 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.31.0
+25-Mar-2020 12:07:00.589 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+25-Mar-2020 12:07:00.589 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+25-Mar-2020 12:07:00.589 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+25-Mar-2020 12:07:00.589 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_152\jre
+25-Mar-2020 12:07:00.590 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_152-b16
+25-Mar-2020 12:07:00.590 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+25-Mar-2020 12:07:00.590 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\changjiang\.IntelliJIdea2017.3\system\tomcat\Unnamed_web1
+25-Mar-2020 12:07:00.590 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\apache-tomcat-8.5.31
+25-Mar-2020 12:07:00.590 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\changjiang\.IntelliJIdea2017.3\system\tomcat\Unnamed_web1\conf\logging.properties
+25-Mar-2020 12:07:00.591 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+25-Mar-2020 12:07:00.591 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote=
+25-Mar-2020 12:07:00.592 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.port=1099
+25-Mar-2020 12:07:00.592 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.ssl=false
+25-Mar-2020 12:07:00.592 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.authenticate=false
+25-Mar-2020 12:07:00.592 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.rmi.server.hostname=127.0.0.1
+25-Mar-2020 12:07:00.592 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+25-Mar-2020 12:07:00.592 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+25-Mar-2020 12:07:00.594 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+25-Mar-2020 12:07:00.594 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\changjiang\.IntelliJIdea2017.3\system\tomcat\Unnamed_web1
+25-Mar-2020 12:07:00.600 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\apache-tomcat-8.5.31
+25-Mar-2020 12:07:00.600 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\apache-tomcat-8.5.31\temp
+25-Mar-2020 12:07:00.600 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.16] using APR version [1.6.3].
+25-Mar-2020 12:07:00.600 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+25-Mar-2020 12:07:00.601 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+25-Mar-2020 12:07:01.399 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.0.2m  2 Nov 2017]
+25-Mar-2020 12:07:01.570 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+25-Mar-2020 12:07:01.585 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+25-Mar-2020 12:07:01.596 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+25-Mar-2020 12:07:01.600 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+25-Mar-2020 12:07:01.600 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1431 ms
+25-Mar-2020 12:07:01.666 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+25-Mar-2020 12:07:01.666 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.31
+25-Mar-2020 12:07:01.684 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+25-Mar-2020 12:07:01.698 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+25-Mar-2020 12:07:01.700 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 99 ms
+25-Mar-2020 12:07:05.797 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+25-Mar-2020 12:07:11.686 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\apache-tomcat-8.5.31\webapps\manager]
+25-Mar-2020 12:07:11.777 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\apache-tomcat-8.5.31\webapps\manager] has finished in [89] ms
+25-Mar-2020 12:07:25.406 信息 [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+25-Mar-2020 12:07:25.407 信息 [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+25-Mar-2020 12:07:25.589 信息 [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+25-Mar-2020 12:07:25.766 信息 [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+25-Mar-2020 12:07:25.797 信息 [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+25-Mar-2020 12:07:25.798 信息 [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+25-Mar-2020 12:07:25.799 信息 [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+25-Mar-2020 12:07:25.800 信息 [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+25-Mar-2020 16:37:41.413 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.31
+25-Mar-2020 16:37:41.420 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 27 2018 20:24:25 UTC
+25-Mar-2020 16:37:41.420 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.31.0
+25-Mar-2020 16:37:41.420 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+25-Mar-2020 16:37:41.421 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+25-Mar-2020 16:37:41.421 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+25-Mar-2020 16:37:41.422 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_152\jre
+25-Mar-2020 16:37:41.422 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_152-b16
+25-Mar-2020 16:37:41.422 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+25-Mar-2020 16:37:41.423 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\changjiang\.IntelliJIdea2017.3\system\tomcat\Unnamed_web1
+25-Mar-2020 16:37:41.424 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\apache-tomcat-8.5.31
+25-Mar-2020 16:37:41.424 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\changjiang\.IntelliJIdea2017.3\system\tomcat\Unnamed_web1\conf\logging.properties
+25-Mar-2020 16:37:41.425 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+25-Mar-2020 16:37:41.425 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote=
+25-Mar-2020 16:37:41.426 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.port=1099
+25-Mar-2020 16:37:41.426 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.ssl=false
+25-Mar-2020 16:37:41.426 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.authenticate=false
+25-Mar-2020 16:37:41.426 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.rmi.server.hostname=127.0.0.1
+25-Mar-2020 16:37:41.426 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+25-Mar-2020 16:37:41.427 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+25-Mar-2020 16:37:41.427 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+25-Mar-2020 16:37:41.427 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\changjiang\.IntelliJIdea2017.3\system\tomcat\Unnamed_web1
+25-Mar-2020 16:37:41.427 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\apache-tomcat-8.5.31
+25-Mar-2020 16:37:41.428 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\apache-tomcat-8.5.31\temp
+25-Mar-2020 16:37:41.428 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.16] using APR version [1.6.3].
+25-Mar-2020 16:37:41.430 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+25-Mar-2020 16:37:41.431 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+25-Mar-2020 16:37:42.530 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.0.2m  2 Nov 2017]
+25-Mar-2020 16:37:42.947 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+25-Mar-2020 16:37:42.973 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+25-Mar-2020 16:37:42.984 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+25-Mar-2020 16:37:42.996 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+25-Mar-2020 16:37:42.997 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 3009 ms
+25-Mar-2020 16:37:43.060 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+25-Mar-2020 16:37:43.061 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.31
+25-Mar-2020 16:37:43.087 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+25-Mar-2020 16:37:43.102 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+25-Mar-2020 16:37:43.105 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 108 ms
+25-Mar-2020 16:37:53.093 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\apache-tomcat-8.5.31\webapps\manager]
+25-Mar-2020 16:37:53.496 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\apache-tomcat-8.5.31\webapps\manager] has finished in [398] ms
+25-Mar-2020 16:37:53.542 信息 [RMI TCP Connection(3)-127.0.0.1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+25-Mar-2020 16:39:33.909 信息 [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+25-Mar-2020 16:39:33.910 信息 [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+25-Mar-2020 16:39:34.622 信息 [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+25-Mar-2020 16:39:35.153 信息 [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+25-Mar-2020 16:39:35.235 信息 [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+25-Mar-2020 16:39:35.237 信息 [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+25-Mar-2020 16:39:35.239 信息 [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+25-Mar-2020 16:39:35.240 信息 [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]

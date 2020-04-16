@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="build-jar-configurations-to-artifacts" />
+    <converter id="detach-cdi-facet-from-module" />
+    <converter id="detach-jsf-facet-from-module" />
+    <converter id="google-app-engine-facet" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="gwt-packaging" />
+    <converter id="javaee-module-to-facets" />
+    <converter id="javaee-packaging-to-artifacts" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="nodejs-remote-debug-configuration-converter" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\demo01\.idea\artifacts\demo01_war.xml" timestamp="1585570998150" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\demo01\.idea\artifacts\demo01_war_exploded.xml" timestamp="1585570998172" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\demo01\.idea\compiler.xml" timestamp="1585570998221" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\demo01\.idea\encodings.xml" timestamp="1585570998388" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\demo01\.idea\libraries\Maven__junit_junit_4_11.xml" timestamp="1585570998422" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\demo01\.idea\libraries\Maven__org_hamcrest_hamcrest_core_1_3.xml" timestamp="1585570773032" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\demo01\.idea\misc.xml" timestamp="1585570998113" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\demo01\.idea\modules.xml" timestamp="1585570682184" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\demo01\.idea\workspace.xml" timestamp="1585572283787" />
+    <file path="C:\百度网盘\10-企业权限管理系统\03-订单及权限操作及springSecurity源码分析\代码\代码\demo01\demo01.iml" timestamp="1585570998076" />
+  </project-files>
+</conversion>
+

@@ -1,0 +1,555 @@
+<maven-project-configuration>
+  <resource-processing>
+    <maven-module name="travel">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>com.zhonghuan</groupId>
+            <artifactId>travel</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId />
+        <directory>C:/Users/changjiang/.IntelliJIdea2017.3/travel</directory>
+        <manifest />
+        <classpath />
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="travel" />
+          <entry key="build.directory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\target" />
+          <entry key="build.finalName" value="travel-1.0-SNAPSHOT" />
+          <entry key="build.outputDirectory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.scriptSourceDirectory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\src\main\scripts" />
+          <entry key="build.sourceDirectory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\src\main\java" />
+          <entry key="build.testOutputDirectory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\target\test-classes" />
+          <entry key="build.testSourceDirectory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\src\test\java" />
+          <entry key="groupId" value="com.zhonghuan" />
+          <entry key="modelEncoding" value="UTF-8" />
+          <entry key="modelVersion" value="4.0.0" />
+          <entry key="packaging" value="pom" />
+          <entry key="pomFile" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\pom.xml" />
+          <entry key="reporting.outputDirectory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\target\site" />
+          <entry key="version" value="1.0-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="java.home" value="C:/Program Files/Java/jdk1.8.0_152/jre" />
+          <entry key="java.version" value="java version &quot;1.8.0_152&quot;" />
+          <entry key="log4j.version" value="1.2.12" />
+          <entry key="mybatis.version" value="3.4.5" />
+          <entry key="settings.localRepository" value="C:\localRepository" />
+          <entry key="slf4j.version" value="1.6.6" />
+          <entry key="spring.security.version" value="5.0.1.RELEASE" />
+          <entry key="spring.version" value="5.0.2.RELEASE" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>C:/Users/changjiang/.IntelliJIdea2017.3/travel/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>C:/Users/changjiang/.IntelliJIdea2017.3/travel/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+    <maven-module name="travel_dao">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>com.zhonghuan</groupId>
+            <artifactId>travel_dao</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId>
+          <MavenIdBean>
+            <groupId>com.zhonghuan</groupId>
+            <artifactId>travel</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </parentId>
+        <directory>C:/Users/changjiang/.IntelliJIdea2017.3/travel/travel_dao</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogY2hhbmdqaWFuZw0KQ3JlYXRlZC1CeTogSW50ZWxsaUogSURFQQ0KQnVpbGQtSmRrOiAxLjguMF8xNTINCg0K</manifest>
+        <classpath>travel_domain-1.0-SNAPSHOT.jar travel_utils-1.0-SNAPSHOT.jar aspectjweaver-1.6.8.jar spring-aop-5.0.2.RELEASE.jar spring-context-5.0.2.RELEASE.jar spring-expression-5.0.2.RELEASE.jar spring-context-support-5.0.2.RELEASE.jar spring-web-5.0.2.RELEASE.jar spring-orm-5.0.2.RELEASE.jar spring-jdbc-5.0.2.RELEASE.jar spring-beans-5.0.2.RELEASE.jar spring-core-5.0.2.RELEASE.jar spring-jcl-5.0.2.RELEASE.jar spring-test-5.0.2.RELEASE.jar spring-webmvc-5.0.2.RELEASE.jar spring-tx-5.0.2.RELEASE.jar javax.servlet-api-3.1.0.jar jsp-api-2.0.jar jstl-1.2.jar log4j-1.2.12.jar slf4j-api-1.6.6.jar slf4j-log4j12-1.6.6.jar mybatis-3.4.5.jar mybatis-spring-1.3.0.jar c3p0-0.9.1.2.jar pagehelper-5.1.2.jar jsqlparser-1.0.jar spring-security-web-5.0.1.RELEASE.jar spring-security-config-5.0.1.RELEASE.jar spring-security-core-5.0.1.RELEASE.jar spring-security-taglibs-5.0.1.RELEASE.jar spring-security-acl-5.0.1.RELEASE.jar mysql-connector-java-5.1.6.jar jsr250-api-1.0.jar</classpath>
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="travel_dao" />
+          <entry key="build.directory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_dao\target" />
+          <entry key="build.finalName" value="travel_dao-1.0-SNAPSHOT" />
+          <entry key="build.outputDirectory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_dao\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.scriptSourceDirectory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_dao\src\main\scripts" />
+          <entry key="build.sourceDirectory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_dao\src\main\java" />
+          <entry key="build.testOutputDirectory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_dao\target\test-classes" />
+          <entry key="build.testSourceDirectory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_dao\src\test\java" />
+          <entry key="groupId" value="com.zhonghuan" />
+          <entry key="modelEncoding" value="UTF-8" />
+          <entry key="modelVersion" value="4.0.0" />
+          <entry key="packaging" value="jar" />
+          <entry key="parent" value="com.zhonghuan:travel:pom:1.0-SNAPSHOT" />
+          <entry key="parent.artifactId" value="travel" />
+          <entry key="parent.groupId" value="com.zhonghuan" />
+          <entry key="parent.relativePath" value="../pom.xml" />
+          <entry key="parent.version" value="1.0-SNAPSHOT" />
+          <entry key="pomFile" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_dao\pom.xml" />
+          <entry key="reporting.outputDirectory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_dao\target\site" />
+          <entry key="version" value="1.0-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="java.home" value="C:/Program Files/Java/jdk1.8.0_152/jre" />
+          <entry key="java.version" value="java version &quot;1.8.0_152&quot;" />
+          <entry key="log4j.version" value="1.2.12" />
+          <entry key="mybatis.version" value="3.4.5" />
+          <entry key="settings.localRepository" value="C:\localRepository" />
+          <entry key="slf4j.version" value="1.6.6" />
+          <entry key="spring.security.version" value="5.0.1.RELEASE" />
+          <entry key="spring.version" value="5.0.2.RELEASE" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>C:/Users/changjiang/.IntelliJIdea2017.3/travel/travel_dao/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>C:/Users/changjiang/.IntelliJIdea2017.3/travel/travel_dao/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+    <maven-module name="travel_domain">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>com.zhonghuan</groupId>
+            <artifactId>travel_domain</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId>
+          <MavenIdBean>
+            <groupId>com.zhonghuan</groupId>
+            <artifactId>travel</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </parentId>
+        <directory>C:/Users/changjiang/.IntelliJIdea2017.3/travel/travel_domain</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogY2hhbmdqaWFuZw0KQ3JlYXRlZC1CeTogSW50ZWxsaUogSURFQQ0KQnVpbGQtSmRrOiAxLjguMF8xNTINCg0K</manifest>
+        <classpath>travel_utils-1.0-SNAPSHOT.jar aspectjweaver-1.6.8.jar spring-aop-5.0.2.RELEASE.jar spring-context-5.0.2.RELEASE.jar spring-expression-5.0.2.RELEASE.jar spring-context-support-5.0.2.RELEASE.jar spring-web-5.0.2.RELEASE.jar spring-orm-5.0.2.RELEASE.jar spring-jdbc-5.0.2.RELEASE.jar spring-beans-5.0.2.RELEASE.jar spring-core-5.0.2.RELEASE.jar spring-jcl-5.0.2.RELEASE.jar spring-test-5.0.2.RELEASE.jar spring-webmvc-5.0.2.RELEASE.jar spring-tx-5.0.2.RELEASE.jar javax.servlet-api-3.1.0.jar jsp-api-2.0.jar jstl-1.2.jar log4j-1.2.12.jar slf4j-api-1.6.6.jar slf4j-log4j12-1.6.6.jar mybatis-3.4.5.jar mybatis-spring-1.3.0.jar c3p0-0.9.1.2.jar pagehelper-5.1.2.jar jsqlparser-1.0.jar spring-security-web-5.0.1.RELEASE.jar spring-security-config-5.0.1.RELEASE.jar spring-security-core-5.0.1.RELEASE.jar spring-security-taglibs-5.0.1.RELEASE.jar spring-security-acl-5.0.1.RELEASE.jar mysql-connector-java-5.1.6.jar jsr250-api-1.0.jar</classpath>
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="travel_domain" />
+          <entry key="build.directory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_domain\target" />
+          <entry key="build.finalName" value="travel_domain-1.0-SNAPSHOT" />
+          <entry key="build.outputDirectory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_domain\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.scriptSourceDirectory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_domain\src\main\scripts" />
+          <entry key="build.sourceDirectory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_domain\src\main\java" />
+          <entry key="build.testOutputDirectory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_domain\target\test-classes" />
+          <entry key="build.testSourceDirectory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_domain\src\test\java" />
+          <entry key="groupId" value="com.zhonghuan" />
+          <entry key="modelEncoding" value="UTF-8" />
+          <entry key="modelVersion" value="4.0.0" />
+          <entry key="packaging" value="jar" />
+          <entry key="parent" value="com.zhonghuan:travel:pom:1.0-SNAPSHOT" />
+          <entry key="parent.artifactId" value="travel" />
+          <entry key="parent.groupId" value="com.zhonghuan" />
+          <entry key="parent.relativePath" value="../pom.xml" />
+          <entry key="parent.version" value="1.0-SNAPSHOT" />
+          <entry key="pomFile" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_domain\pom.xml" />
+          <entry key="reporting.outputDirectory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_domain\target\site" />
+          <entry key="version" value="1.0-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="java.home" value="C:/Program Files/Java/jdk1.8.0_152/jre" />
+          <entry key="java.version" value="java version &quot;1.8.0_152&quot;" />
+          <entry key="log4j.version" value="1.2.12" />
+          <entry key="mybatis.version" value="3.4.5" />
+          <entry key="settings.localRepository" value="C:\localRepository" />
+          <entry key="slf4j.version" value="1.6.6" />
+          <entry key="spring.security.version" value="5.0.1.RELEASE" />
+          <entry key="spring.version" value="5.0.2.RELEASE" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>C:/Users/changjiang/.IntelliJIdea2017.3/travel/travel_domain/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>C:/Users/changjiang/.IntelliJIdea2017.3/travel/travel_domain/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+    <maven-module name="travel_service">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>com.zhonghuan</groupId>
+            <artifactId>travel_service</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId>
+          <MavenIdBean>
+            <groupId>com.zhonghuan</groupId>
+            <artifactId>travel</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </parentId>
+        <directory>C:/Users/changjiang/.IntelliJIdea2017.3/travel/travel_service</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogY2hhbmdqaWFuZw0KQ3JlYXRlZC1CeTogSW50ZWxsaUogSURFQQ0KQnVpbGQtSmRrOiAxLjguMF8xNTINCg0K</manifest>
+        <classpath>travel_domain-1.0-SNAPSHOT.jar travel_utils-1.0-SNAPSHOT.jar travel_dao-1.0-SNAPSHOT.jar aspectjweaver-1.6.8.jar spring-aop-5.0.2.RELEASE.jar spring-context-5.0.2.RELEASE.jar spring-expression-5.0.2.RELEASE.jar spring-context-support-5.0.2.RELEASE.jar spring-web-5.0.2.RELEASE.jar spring-orm-5.0.2.RELEASE.jar spring-jdbc-5.0.2.RELEASE.jar spring-beans-5.0.2.RELEASE.jar spring-core-5.0.2.RELEASE.jar spring-jcl-5.0.2.RELEASE.jar spring-test-5.0.2.RELEASE.jar spring-webmvc-5.0.2.RELEASE.jar spring-tx-5.0.2.RELEASE.jar javax.servlet-api-3.1.0.jar jsp-api-2.0.jar jstl-1.2.jar log4j-1.2.12.jar slf4j-api-1.6.6.jar slf4j-log4j12-1.6.6.jar mybatis-3.4.5.jar mybatis-spring-1.3.0.jar c3p0-0.9.1.2.jar pagehelper-5.1.2.jar jsqlparser-1.0.jar spring-security-web-5.0.1.RELEASE.jar spring-security-config-5.0.1.RELEASE.jar spring-security-core-5.0.1.RELEASE.jar spring-security-taglibs-5.0.1.RELEASE.jar spring-security-acl-5.0.1.RELEASE.jar mysql-connector-java-5.1.6.jar jsr250-api-1.0.jar</classpath>
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="travel_service" />
+          <entry key="build.directory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_service\target" />
+          <entry key="build.finalName" value="travel_service-1.0-SNAPSHOT" />
+          <entry key="build.outputDirectory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_service\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.scriptSourceDirectory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_service\src\main\scripts" />
+          <entry key="build.sourceDirectory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_service\src\main\java" />
+          <entry key="build.testOutputDirectory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_service\target\test-classes" />
+          <entry key="build.testSourceDirectory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_service\src\test\java" />
+          <entry key="groupId" value="com.zhonghuan" />
+          <entry key="modelEncoding" value="UTF-8" />
+          <entry key="modelVersion" value="4.0.0" />
+          <entry key="packaging" value="jar" />
+          <entry key="parent" value="com.zhonghuan:travel:pom:1.0-SNAPSHOT" />
+          <entry key="parent.artifactId" value="travel" />
+          <entry key="parent.groupId" value="com.zhonghuan" />
+          <entry key="parent.relativePath" value="../pom.xml" />
+          <entry key="parent.version" value="1.0-SNAPSHOT" />
+          <entry key="pomFile" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_service\pom.xml" />
+          <entry key="reporting.outputDirectory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_service\target\site" />
+          <entry key="version" value="1.0-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="java.home" value="C:/Program Files/Java/jdk1.8.0_152/jre" />
+          <entry key="java.version" value="java version &quot;1.8.0_152&quot;" />
+          <entry key="log4j.version" value="1.2.12" />
+          <entry key="mybatis.version" value="3.4.5" />
+          <entry key="settings.localRepository" value="C:\localRepository" />
+          <entry key="slf4j.version" value="1.6.6" />
+          <entry key="spring.security.version" value="5.0.1.RELEASE" />
+          <entry key="spring.version" value="5.0.2.RELEASE" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>C:/Users/changjiang/.IntelliJIdea2017.3/travel/travel_service/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>C:/Users/changjiang/.IntelliJIdea2017.3/travel/travel_service/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+    <maven-module name="travel_test">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>com.zhonghuan</groupId>
+            <artifactId>travel_test</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId>
+          <MavenIdBean>
+            <groupId>com.zhonghuan</groupId>
+            <artifactId>travel</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </parentId>
+        <directory>C:/Users/changjiang/.IntelliJIdea2017.3/travel/travel_test</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogY2hhbmdqaWFuZw0KQ3JlYXRlZC1CeTogSW50ZWxsaUogSURFQQ0KQnVpbGQtSmRrOiAxLjguMF8xNTINCg0K</manifest>
+        <classpath>travel_dao-1.0-SNAPSHOT.jar travel_service-1.0-SNAPSHOT.jar travel_domain-1.0-SNAPSHOT.jar travel_utils-1.0-SNAPSHOT.jar aspectjweaver-1.6.8.jar spring-aop-5.0.2.RELEASE.jar spring-context-5.0.2.RELEASE.jar spring-expression-5.0.2.RELEASE.jar spring-context-support-5.0.2.RELEASE.jar spring-web-5.0.2.RELEASE.jar spring-orm-5.0.2.RELEASE.jar spring-jdbc-5.0.2.RELEASE.jar spring-beans-5.0.2.RELEASE.jar spring-core-5.0.2.RELEASE.jar spring-jcl-5.0.2.RELEASE.jar spring-test-5.0.2.RELEASE.jar spring-webmvc-5.0.2.RELEASE.jar spring-tx-5.0.2.RELEASE.jar javax.servlet-api-3.1.0.jar jsp-api-2.0.jar jstl-1.2.jar log4j-1.2.12.jar slf4j-api-1.6.6.jar slf4j-log4j12-1.6.6.jar mybatis-3.4.5.jar mybatis-spring-1.3.0.jar c3p0-0.9.1.2.jar pagehelper-5.1.2.jar jsqlparser-1.0.jar spring-security-web-5.0.1.RELEASE.jar spring-security-config-5.0.1.RELEASE.jar spring-security-core-5.0.1.RELEASE.jar spring-security-taglibs-5.0.1.RELEASE.jar spring-security-acl-5.0.1.RELEASE.jar mysql-connector-java-5.1.6.jar jsr250-api-1.0.jar</classpath>
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="travel_test" />
+          <entry key="build.directory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_test\target" />
+          <entry key="build.finalName" value="travel_test-1.0-SNAPSHOT" />
+          <entry key="build.outputDirectory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_test\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.scriptSourceDirectory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_test\src\main\scripts" />
+          <entry key="build.sourceDirectory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_test\src\main\java" />
+          <entry key="build.testOutputDirectory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_test\target\test-classes" />
+          <entry key="build.testSourceDirectory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_test\src\test\java" />
+          <entry key="groupId" value="com.zhonghuan" />
+          <entry key="modelEncoding" value="UTF-8" />
+          <entry key="modelVersion" value="4.0.0" />
+          <entry key="packaging" value="jar" />
+          <entry key="parent" value="com.zhonghuan:travel:pom:1.0-SNAPSHOT" />
+          <entry key="parent.artifactId" value="travel" />
+          <entry key="parent.groupId" value="com.zhonghuan" />
+          <entry key="parent.relativePath" value="../pom.xml" />
+          <entry key="parent.version" value="1.0-SNAPSHOT" />
+          <entry key="pomFile" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_test\pom.xml" />
+          <entry key="reporting.outputDirectory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_test\target\site" />
+          <entry key="version" value="1.0-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="java.home" value="C:/Program Files/Java/jdk1.8.0_152/jre" />
+          <entry key="java.version" value="java version &quot;1.8.0_152&quot;" />
+          <entry key="log4j.version" value="1.2.12" />
+          <entry key="mybatis.version" value="3.4.5" />
+          <entry key="settings.localRepository" value="C:\localRepository" />
+          <entry key="slf4j.version" value="1.6.6" />
+          <entry key="spring.security.version" value="5.0.1.RELEASE" />
+          <entry key="spring.version" value="5.0.2.RELEASE" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>C:/Users/changjiang/.IntelliJIdea2017.3/travel/travel_test/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>C:/Users/changjiang/.IntelliJIdea2017.3/travel/travel_test/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+    <maven-module name="travel_utils">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>com.zhonghuan</groupId>
+            <artifactId>travel_utils</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId>
+          <MavenIdBean>
+            <groupId>com.zhonghuan</groupId>
+            <artifactId>travel</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </parentId>
+        <directory>C:/Users/changjiang/.IntelliJIdea2017.3/travel/travel_utils</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogY2hhbmdqaWFuZw0KQ3JlYXRlZC1CeTogSW50ZWxsaUogSURFQQ0KQnVpbGQtSmRrOiAxLjguMF8xNTINCg0K</manifest>
+        <classpath>aspectjweaver-1.6.8.jar spring-aop-5.0.2.RELEASE.jar spring-context-5.0.2.RELEASE.jar spring-expression-5.0.2.RELEASE.jar spring-context-support-5.0.2.RELEASE.jar spring-web-5.0.2.RELEASE.jar spring-orm-5.0.2.RELEASE.jar spring-jdbc-5.0.2.RELEASE.jar spring-beans-5.0.2.RELEASE.jar spring-core-5.0.2.RELEASE.jar spring-jcl-5.0.2.RELEASE.jar spring-test-5.0.2.RELEASE.jar spring-webmvc-5.0.2.RELEASE.jar spring-tx-5.0.2.RELEASE.jar javax.servlet-api-3.1.0.jar jsp-api-2.0.jar jstl-1.2.jar log4j-1.2.12.jar slf4j-api-1.6.6.jar slf4j-log4j12-1.6.6.jar mybatis-3.4.5.jar mybatis-spring-1.3.0.jar c3p0-0.9.1.2.jar pagehelper-5.1.2.jar jsqlparser-1.0.jar spring-security-web-5.0.1.RELEASE.jar spring-security-config-5.0.1.RELEASE.jar spring-security-core-5.0.1.RELEASE.jar spring-security-taglibs-5.0.1.RELEASE.jar spring-security-acl-5.0.1.RELEASE.jar mysql-connector-java-5.1.6.jar jsr250-api-1.0.jar</classpath>
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="travel_utils" />
+          <entry key="build.directory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_utils\target" />
+          <entry key="build.finalName" value="travel_utils-1.0-SNAPSHOT" />
+          <entry key="build.outputDirectory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_utils\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.scriptSourceDirectory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_utils\src\main\scripts" />
+          <entry key="build.sourceDirectory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_utils\src\main\java" />
+          <entry key="build.testOutputDirectory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_utils\target\test-classes" />
+          <entry key="build.testSourceDirectory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_utils\src\test\java" />
+          <entry key="groupId" value="com.zhonghuan" />
+          <entry key="modelEncoding" value="UTF-8" />
+          <entry key="modelVersion" value="4.0.0" />
+          <entry key="packaging" value="jar" />
+          <entry key="parent" value="com.zhonghuan:travel:pom:1.0-SNAPSHOT" />
+          <entry key="parent.artifactId" value="travel" />
+          <entry key="parent.groupId" value="com.zhonghuan" />
+          <entry key="parent.relativePath" value="../pom.xml" />
+          <entry key="parent.version" value="1.0-SNAPSHOT" />
+          <entry key="pomFile" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_utils\pom.xml" />
+          <entry key="reporting.outputDirectory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_utils\target\site" />
+          <entry key="version" value="1.0-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="java.home" value="C:/Program Files/Java/jdk1.8.0_152/jre" />
+          <entry key="java.version" value="java version &quot;1.8.0_152&quot;" />
+          <entry key="log4j.version" value="1.2.12" />
+          <entry key="mybatis.version" value="3.4.5" />
+          <entry key="settings.localRepository" value="C:\localRepository" />
+          <entry key="slf4j.version" value="1.6.6" />
+          <entry key="spring.security.version" value="5.0.1.RELEASE" />
+          <entry key="spring.version" value="5.0.2.RELEASE" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>C:/Users/changjiang/.IntelliJIdea2017.3/travel/travel_utils/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>C:/Users/changjiang/.IntelliJIdea2017.3/travel/travel_utils/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+    <maven-module name="travel_web">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>com.zhonghuan</groupId>
+            <artifactId>travel_web</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId>
+          <MavenIdBean>
+            <groupId>com.zhonghuan</groupId>
+            <artifactId>travel</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </parentId>
+        <directory>C:/Users/changjiang/.IntelliJIdea2017.3/travel/travel_web</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogY2hhbmdqaWFuZw0KQ3JlYXRlZC1CeTogSW50ZWxsaUogSURFQQ0KQnVpbGQtSmRrOiAxLjguMF8xNTINCg0K</manifest>
+        <classpath>travel_service-1.0-SNAPSHOT.jar travel_dao-1.0-SNAPSHOT.jar travel_domain-1.0-SNAPSHOT.jar travel_utils-1.0-SNAPSHOT.jar aspectjweaver-1.6.8.jar spring-aop-5.0.2.RELEASE.jar spring-context-5.0.2.RELEASE.jar spring-expression-5.0.2.RELEASE.jar spring-context-support-5.0.2.RELEASE.jar spring-web-5.0.2.RELEASE.jar spring-orm-5.0.2.RELEASE.jar spring-jdbc-5.0.2.RELEASE.jar spring-beans-5.0.2.RELEASE.jar spring-core-5.0.2.RELEASE.jar spring-jcl-5.0.2.RELEASE.jar spring-test-5.0.2.RELEASE.jar spring-webmvc-5.0.2.RELEASE.jar spring-tx-5.0.2.RELEASE.jar javax.servlet-api-3.1.0.jar jsp-api-2.0.jar jstl-1.2.jar log4j-1.2.12.jar slf4j-api-1.6.6.jar slf4j-log4j12-1.6.6.jar mybatis-3.4.5.jar mybatis-spring-1.3.0.jar c3p0-0.9.1.2.jar pagehelper-5.1.2.jar jsqlparser-1.0.jar spring-security-web-5.0.1.RELEASE.jar spring-security-config-5.0.1.RELEASE.jar spring-security-core-5.0.1.RELEASE.jar spring-security-taglibs-5.0.1.RELEASE.jar spring-security-acl-5.0.1.RELEASE.jar mysql-connector-java-5.1.6.jar jsr250-api-1.0.jar</classpath>
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="travel_web" />
+          <entry key="build.directory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_web\target" />
+          <entry key="build.finalName" value="travel_web" />
+          <entry key="build.outputDirectory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_web\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.scriptSourceDirectory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_web\src\main\scripts" />
+          <entry key="build.sourceDirectory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_web\src\main\java" />
+          <entry key="build.testOutputDirectory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_web\target\test-classes" />
+          <entry key="build.testSourceDirectory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_web\src\test\java" />
+          <entry key="groupId" value="com.zhonghuan" />
+          <entry key="modelEncoding" value="UTF-8" />
+          <entry key="modelVersion" value="4.0.0" />
+          <entry key="name" value="travel_web Maven Webapp" />
+          <entry key="packaging" value="war" />
+          <entry key="parent" value="com.zhonghuan:travel:pom:1.0-SNAPSHOT" />
+          <entry key="parent.artifactId" value="travel" />
+          <entry key="parent.groupId" value="com.zhonghuan" />
+          <entry key="parent.relativePath" value="../pom.xml" />
+          <entry key="parent.version" value="1.0-SNAPSHOT" />
+          <entry key="pomFile" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_web\pom.xml" />
+          <entry key="reporting.outputDirectory" value="C:\Users\changjiang\.IntelliJIdea2017.3\travel\travel_web\target\site" />
+          <entry key="url" value="http://www.example.com" />
+          <entry key="version" value="1.0-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="java.home" value="C:/Program Files/Java/jdk1.8.0_152/jre" />
+          <entry key="java.version" value="java version &quot;1.8.0_152&quot;" />
+          <entry key="log4j.version" value="1.2.12" />
+          <entry key="maven.compiler.source" value="1.7" />
+          <entry key="maven.compiler.target" value="1.7" />
+          <entry key="mybatis.version" value="3.4.5" />
+          <entry key="project.build.sourceEncoding" value="UTF-8" />
+          <entry key="settings.localRepository" value="C:\localRepository" />
+          <entry key="slf4j.version" value="1.6.6" />
+          <entry key="spring.security.version" value="5.0.1.RELEASE" />
+          <entry key="spring.version" value="5.0.2.RELEASE" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>C:/Users/changjiang/.IntelliJIdea2017.3/travel/travel_web/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>C:/Users/changjiang/.IntelliJIdea2017.3/travel/travel_web/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+          <resource filtered="false">
+            <directory>C:/Users/changjiang/.IntelliJIdea2017.3/travel/travel_web/src/main/test</directory>
+            <targetPath>C:/Users/changjiang/.IntelliJIdea2017.3/travel/travel_web/target/test-classes</targetPath>
+            <includes />
+            <excludes>
+              <pattern value="**/*.aj" />
+              <pattern value="**/*.class" />
+              <pattern value="**/*.clj" />
+              <pattern value="**/*.flex" />
+              <pattern value="**/*.form" />
+              <pattern value="**/*.groovy" />
+              <pattern value="**/*.java" />
+              <pattern value="**/*.kt" />
+              <pattern value="**/*.scala" />
+            </excludes>
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+  </resource-processing>
+  <web-artifact-cfg />
+  <ejb-client-artifact-cfg />
+</maven-project-configuration>
