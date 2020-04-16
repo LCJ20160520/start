@@ -1,76 +1,106 @@
 <application>
   <component name="ActionsCollector">
     <counts>
-      <entry action="$Copy" count="11" />
-      <entry action="$Delete" count="16" />
-      <entry action="$EditorTranslateAction" count="13" />
-      <entry action="$Paste" count="19" />
-      <entry action="$SelectAll" count="11" />
-      <entry action="$Undo" count="37" />
+      <entry action="$Copy" count="47" />
+      <entry action="$Cut" count="1" />
+      <entry action="$Delete" count="51" />
+      <entry action="$EditorTranslateAction" count="42" />
+      <entry action="$Paste" count="381" />
+      <entry action="$SelectAll" count="28" />
+      <entry action="$Undo" count="509" />
       <entry action="ActivateMavenProjectsToolWindow" count="11" />
       <entry action="Add Javadoc" count="1" />
+      <entry action="Add TypeCast" count="5" />
       <entry action="Add Xsi schema location for external resource" count="1" />
       <entry action="Add constructor parameters" count="1" />
-      <entry action="Add exception to method signature" count="1" />
-      <entry action="Add module dependency" count="5" />
-      <entry action="AppServers.RunServer" count="3" />
-      <entry action="CloseProject" count="25" />
-      <entry action="CommentByLineComment" count="19" />
+      <entry action="Add exception to method signature" count="6" />
+      <entry action="Add module dependency" count="6" />
+      <entry action="AppServers.RunServer" count="4" />
+      <entry action="Back" count="5" />
+      <entry action="CloseProject" count="38" />
+      <entry action="CommentByLineComment" count="265" />
+      <entry action="Configure highlighting" count="2" />
+      <entry action="ConsoleView.ClearAll" count="11" />
+      <entry action="Coverage" count="1" />
       <entry action="Create Class from Usage" count="1" />
-      <entry action="CreateJavaeeWebPageAction" count="9" />
-      <entry action="CreateServletAction" count="1" />
+      <entry action="Create Test" count="1" />
+      <entry action="Create method from usage" count="3" />
+      <entry action="CreateJavaeeWebPageAction" count="24" />
+      <entry action="CreateServletAction" count="2" />
       <entry action="Delete element" count="1" />
       <entry action="Edit options of reporter inspection" count="1" />
-      <entry action="EditorBackSpace" count="753" />
-      <entry action="EditorChooseLookupItem" count="247" />
-      <entry action="EditorCopy" count="17" />
-      <entry action="EditorCut" count="7" />
-      <entry action="EditorDelete" count="76" />
-      <entry action="EditorDown" count="163" />
-      <entry action="EditorEnter" count="338" />
-      <entry action="EditorEscape" count="5" />
-      <entry action="EditorIndentSelection" count="9" />
-      <entry action="EditorLeft" count="341" />
-      <entry action="EditorPaste" count="29" />
-      <entry action="EditorRight" count="251" />
-      <entry action="EditorTab" count="34" />
-      <entry action="EditorUp" count="63" />
-      <entry action="ExpandLiveTemplateByTab" count="1" />
+      <entry action="Editor notification settings" count="2" />
+      <entry action="EditorBackSpace" count="3546" />
+      <entry action="EditorChooseLookupItem" count="1521" />
+      <entry action="EditorCopy" count="250" />
+      <entry action="EditorCut" count="61" />
+      <entry action="EditorDelete" count="321" />
+      <entry action="EditorDown" count="747" />
+      <entry action="EditorDuplicate" count="52" />
+      <entry action="EditorEnter" count="1020" />
+      <entry action="EditorEscape" count="14" />
+      <entry action="EditorIndentSelection" count="13" />
+      <entry action="EditorLeft" count="1397" />
+      <entry action="EditorPaste" count="64" />
+      <entry action="EditorRight" count="1178" />
+      <entry action="EditorStartNewLine" count="1" />
+      <entry action="EditorTab" count="174" />
+      <entry action="EditorToggleInsertState" count="2" />
+      <entry action="EditorUp" count="276" />
+      <entry action="ExpandLiveTemplateByTab" count="3" />
+      <entry action="Faces.CreateJsfAction" count="2" />
       <entry action="Fetch external resource" count="2" />
-      <entry action="FileChooser.NewFolder" count="2" />
-      <entry action="Find" count="2" />
+      <entry action="FileChooser.NewFolder" count="4" />
+      <entry action="Find" count="14" />
+      <entry action="FindUsages" count="1" />
+      <entry action="Fix Variable Type" count="2" />
       <entry action="Fix modifiers" count="1" />
-      <entry action="Generate" count="9" />
-      <entry action="GotoDeclaration" count="1" />
-      <entry action="HideAllWindows" count="11" />
-      <entry action="Implement methods" count="4" />
-      <entry action="Import class" count="7" />
-      <entry action="Introduce local variable" count="2" />
+      <entry action="Fix return type" count="2" />
+      <entry action="Generate" count="31" />
+      <entry action="Go to implementation(s)" count="2" />
+      <entry action="GotoBookmark8" count="1" />
+      <entry action="GotoDeclaration" count="101" />
+      <entry action="HideAllWindows" count="90" />
+      <entry action="Implement methods" count="17" />
+      <entry action="Import class" count="37" />
+      <entry action="Insert required attribute" count="1" />
+      <entry action="Introduce local variable" count="48" />
       <entry action="Maven.AddFileAsMavenProject" count="1" />
       <entry action="Maven.AddManagedFiles" count="1" />
       <entry action="Maven.DownloadAllDocs" count="1" />
       <entry action="Maven.DownloadAllGroupPopup" count="10" />
       <entry action="Maven.DownloadAllSources" count="4" />
       <entry action="Maven.DownloadAllSourcesAndDocs" count="4" />
-      <entry action="Maven.Reimport" count="25" />
+      <entry action="Maven.Reimport" count="42" />
       <entry action="Maven.ShowBasicPhasesOnly" count="2" />
       <entry action="Maven.ShowSettings" count="1" />
       <entry action="Maven.UpdateFolders" count="1" />
-      <entry action="NewClass" count="19" />
-      <entry action="NewDir" count="23" />
-      <entry action="NewFile" count="3" />
-      <entry action="NewProject" count="15" />
-      <entry action="NextTemplateVariable" count="2" />
-      <entry action="OpenFile" count="5" />
-      <entry action="Rerun" count="29" />
-      <entry action="Run" count="13" />
-      <entry action="RunClass" count="8" />
-      <entry action="SaveAll" count="1" />
+      <entry action="NewClass" count="67" />
+      <entry action="NewDir" count="46" />
+      <entry action="NewFile" count="8" />
+      <entry action="NewHtmlFile" count="2" />
+      <entry action="NewModule" count="7" />
+      <entry action="NewModuleInGroup" count="2" />
+      <entry action="NewProject" count="23" />
+      <entry action="NextTemplateVariable" count="30" />
+      <entry action="OpenFile" count="9" />
+      <entry action="Parameter Name Hints" count="1" />
+      <entry action="RefactoringMenuRenameFile" count="5" />
+      <entry action="Rename Wrong Reference" count="3" />
+      <entry action="RenameElement" count="4" />
+      <entry action="Rerun" count="185" />
+      <entry action="Run" count="170" />
+      <entry action="RunClass" count="26" />
+      <entry action="SaveAll" count="2" />
+      <entry action="SearchEverywhere" count="3" />
       <entry action="Setup JDK Location" count="1" />
-      <entry action="ShowIntentionActions" count="56" />
-      <entry action="ShowProjectStructureSettings" count="12" />
-      <entry action="ShowSettings" count="8" />
-      <entry action="Stop" count="12" />
+      <entry action="ShowIntentionActions" count="239" />
+      <entry action="ShowProjectStructureSettings" count="13" />
+      <entry action="ShowSettings" count="10" />
+      <entry action="Spring.Create.Context.File" count="1" />
+      <entry action="Stop" count="43" />
+      <entry action="ToggleLineBreakpoint" count="6" />
+      <entry action="Update Maven Indices" count="2" />
       <entry action="editRunConfigurations" count="3" />
     </counts>
   </component>

@@ -1,15 +1,16 @@
 <application>
   <component name="MainMenuCollector">
     <counts>
-      <entry path="File -&gt; Close Project" count="23" />
+      <entry path="File -&gt; Close Project" count="35" />
       <entry path="File -&gt; New -&gt; JSP/JSPX" count="1" />
+      <entry path="File -&gt; New -&gt; Module..." count="7" />
       <entry path="File -&gt; New -&gt; Open..." count="2" />
-      <entry path="File -&gt; New -&gt; Project..." count="15" />
-      <entry path="File -&gt; Open Recent -&gt; Close Project" count="2" />
-      <entry path="File -&gt; Open Recent -&gt; Reopen Project" count="13" />
-      <entry path="File -&gt; Open..." count="3" />
-      <entry path="File -&gt; Project Structure..." count="12" />
-      <entry path="File -&gt; Settings..." count="8" />
+      <entry path="File -&gt; New -&gt; Project..." count="23" />
+      <entry path="File -&gt; Open Recent -&gt; Close Project" count="3" />
+      <entry path="File -&gt; Open Recent -&gt; Reopen Project" count="26" />
+      <entry path="File -&gt; Open..." count="7" />
+      <entry path="File -&gt; Project Structure..." count="13" />
+      <entry path="File -&gt; Settings..." count="10" />
       <entry path="Run -&gt; Edit Configurations..." count="3" />
       <entry path="Run -&gt; Stop" count="1" />
       <entry path="View -&gt; Open in Browser -&gt; Chrome" count="1" />

@@ -29,10 +29,8 @@ C:\localRepository\junit\junit\4.12\junit-4.12.jar
 ->C:/百度网盘/ssm/ssm/target/ssm/WEB-INF/lib/junit-4.12.jar
 C:\localRepository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar
 ->C:/百度网盘/ssm/ssm/target/ssm/WEB-INF/lib/hamcrest-core-1.3.jar
-C:\localRepository\mysql\mysql-connector-java\8.0.12\mysql-connector-java-8.0.12.jar
-->C:/百度网盘/ssm/ssm/target/ssm/WEB-INF/lib/mysql-connector-java-8.0.12.jar
-C:\localRepository\com\google\protobuf\protobuf-java\2.6.0\protobuf-java-2.6.0.jar
-->C:/百度网盘/ssm/ssm/target/ssm/WEB-INF/lib/protobuf-java-2.6.0.jar
+C:\localRepository\mysql\mysql-connector-java\5.1.6\mysql-connector-java-5.1.6.jar
+->C:/百度网盘/ssm/ssm/target/ssm/WEB-INF/lib/mysql-connector-java-5.1.6.jar
 C:\localRepository\jstl\jstl\1.2\jstl-1.2.jar
 ->C:/百度网盘/ssm/ssm/target/ssm/WEB-INF/lib/jstl-1.2.jar
 C:\localRepository\log4j\log4j\1.2.12\log4j-1.2.12.jar

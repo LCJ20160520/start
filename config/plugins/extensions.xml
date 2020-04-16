@@ -3600,58 +3600,6 @@
         </option>
       </plugins>
     </entry>
-    <entry key="*.gs">
-      <plugins>
-        <option name="myPlugins">
-          <set>
-            <plugin>
-              <option name="myPluginId" value="com.guidewire.gosu" />
-              <option name="myPluginName" />
-              <option name="myBundled" value="false" />
-            </plugin>
-          </set>
-        </option>
-      </plugins>
-    </entry>
-    <entry key="*.gsp">
-      <plugins>
-        <option name="myPlugins">
-          <set>
-            <plugin>
-              <option name="myPluginId" value="com.guidewire.gosu" />
-              <option name="myPluginName" />
-              <option name="myBundled" value="false" />
-            </plugin>
-          </set>
-        </option>
-      </plugins>
-    </entry>
-    <entry key="*.gst">
-      <plugins>
-        <option name="myPlugins">
-          <set>
-            <plugin>
-              <option name="myPluginId" value="com.guidewire.gosu" />
-              <option name="myPluginName" />
-              <option name="myBundled" value="false" />
-            </plugin>
-          </set>
-        </option>
-      </plugins>
-    </entry>
-    <entry key="*.gsx">
-      <plugins>
-        <option name="myPlugins">
-          <set>
-            <plugin>
-              <option name="myPluginId" value="com.guidewire.gosu" />
-              <option name="myPluginName" />
-              <option name="myBundled" value="false" />
-            </plugin>
-          </set>
-        </option>
-      </plugins>
-    </entry>
     <entry key="*.gv">
       <plugins>
         <option name="myPlugins">
@@ -4698,6 +4646,19 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.leex">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="org.elixir_lang" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.legio">
       <plugins>
         <option name="myPlugins">
@@ -5331,6 +5292,19 @@
           <set>
             <plugin>
               <option name="myPluginId" value="org.mirah.idea.plugin" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.mjs">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="uk.co.reecedunn.intellij.plugin.xquery" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
             </plugin>
@@ -7647,19 +7621,6 @@
           <set>
             <plugin>
               <option name="myPluginId" value="org.jetbrains.plugins.ruby" />
-              <option name="myPluginName" />
-              <option name="myBundled" value="false" />
-            </plugin>
-          </set>
-        </option>
-      </plugins>
-    </entry>
-    <entry key="*.rlib">
-      <plugins>
-        <option name="myPlugins">
-          <set>
-            <plugin>
-              <option name="myPluginId" value="com.techern.oxidize" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
             </plugin>
@@ -10993,12 +10954,12 @@
         </option>
       </plugins>
     </entry>
-    <entry key="Cargo.toml">
+    <entry key="Dockerfile">
       <plugins>
         <option name="myPlugins">
           <set>
             <plugin>
-              <option name="myPluginId" value="com.techern.oxidize" />
+              <option name="myPluginId" value="Docker" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
             </plugin>
@@ -11006,7 +10967,20 @@
         </option>
       </plugins>
     </entry>
-    <entry key="Dockerfile">
+    <entry key="Dockerfile.jvm">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="Docker" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="Dockerfile.native">
       <plugins>
         <option name="myPlugins">
           <set>

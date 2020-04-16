@@ -2,7 +2,17 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/.IntelliJIdea2017.3/travel" />
+        <option value="$USER_HOME$/IdeaProjects/t_demo" />
+        <option value="C:/百度网盘/10-企业权限管理系统/03-订单及权限操作及springSecurity源码分析/代码/代码/demo" />
+        <option value="C:/百度网盘/10-企业权限管理系统/03-订单及权限操作及springSecurity源码分析/代码/代码/travel" />
+        <option value="C:/百度网盘/10-企业权限管理系统/03-订单及权限操作及springSecurity源码分析/代码/代码/demo01" />
+        <option value="C:/百度网盘/10-企业权限管理系统/03-订单及权限操作及springSecurity源码分析/代码/代码/heima_ssm" />
         <option value="C:/百度网盘/ssm/ssm" />
+        <option value="C:/百度网盘/10-企业权限管理系统/02-环境及产品订单操作/代码/代码/分页代码/heima_ssm" />
+        <option value="$USER_HOME$/.IntelliJIdea2017.3/web1" />
+        <option value="$USER_HOME$/.IntelliJIdea2017.3/web3" />
+        <option value="$USER_HOME$/.IntelliJIdea2017.3/ssm" />
         <option value="C:/百度网盘/10-企业权限管理系统/05-SSMAOP日志/代码/heima_ssm/heima_ssm" />
         <option value="C:/百度网盘/ssm/springmvcdemo2" />
         <option value="$USER_HOME$/.IntelliJIdea2017.3/springmvctest1" />
@@ -16,10 +26,10 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="C:/百度网盘/ssm/ssm" />
+        <option value="$USER_HOME$/.IntelliJIdea2017.3/travel" />
       </list>
     </option>
-    <option name="lastPath" value="C:/百度网盘/ssm/ssm" />
+    <option name="lastPath" value="$USER_HOME$/.IntelliJIdea2017.3/travel" />
     <option name="pid" value="" />
     <option name="additionalInfo">
       <map>
@@ -67,6 +77,50 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/.IntelliJIdea2017.3/ssm">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1585109218959" />
+              <option name="buildTimestamp" value="1517264928273" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.IntelliJIdea2017.3/travel">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1587025126083" />
+              <option name="buildTimestamp" value="1517264913402" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.IntelliJIdea2017.3/web1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1585147487624" />
+              <option name="buildTimestamp" value="1517264895878" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.IntelliJIdea2017.3/web3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1585130517915" />
+              <option name="buildTimestamp" value="1517264906874" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/IdeaProjects/day01">
           <value>
             <RecentProjectMetaInfo>
@@ -86,6 +140,17 @@
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="projectOpenTimestamp" value="1584958693209" />
               <option name="buildTimestamp" value="1517264899219" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/t_demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1586678429544" />
+              <option name="buildTimestamp" value="1517264898410" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -119,6 +184,61 @@
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="projectOpenTimestamp" value="1584675612053" />
               <option name="buildTimestamp" value="1517264886060" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/百度网盘/10-企业权限管理系统/02-环境及产品订单操作/代码/代码/分页代码/heima_ssm">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1585139575858" />
+              <option name="buildTimestamp" value="1517264895878" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/百度网盘/10-企业权限管理系统/03-订单及权限操作及springSecurity源码分析/代码/代码/demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1586338751848" />
+              <option name="buildTimestamp" value="1517264895674" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/百度网盘/10-企业权限管理系统/03-订单及权限操作及springSecurity源码分析/代码/代码/demo01">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1585572441845" />
+              <option name="buildTimestamp" value="1517264895123" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/百度网盘/10-企业权限管理系统/03-订单及权限操作及springSecurity源码分析/代码/代码/heima_ssm">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1585572443058" />
+              <option name="buildTimestamp" value="1517264895123" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/百度网盘/10-企业权限管理系统/03-订单及权限操作及springSecurity源码分析/代码/代码/travel">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1586334902471" />
+              <option name="buildTimestamp" value="1517264895674" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -183,13 +303,13 @@
               <option name="build" value="IU-173.4548.28" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1584971729699" />
-              <option name="buildTimestamp" value="1517264899219" />
+              <option name="projectOpenTimestamp" value="1585210543443" />
+              <option name="buildTimestamp" value="1517264937176" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastProjectLocation" value="C:/百度网盘/ssm" />
+    <option name="lastProjectLocation" value="$USER_HOME$/IdeaProjects" />
   </component>
 </application>

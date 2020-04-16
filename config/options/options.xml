@@ -2,10 +2,10 @@
   <component name="PropertiesComponent">
     <property name="evlsprt3.173" value="14" />
     <property name="installed.kotlin.plugin.version" value="1.2.10-release-IJ2017.3-1" />
-    <property name="android-component-compatibility-check" value="1584675428439" />
-    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
-    <property name="project.wizard.template" value="Maven" />
-    <property name="file.chooser.recent.files" value="C:/百度网盘/ssm/ssm/pom.xml&#10;C:/Users/changjiang/.IntelliJIdea2017.3/springmvctest1&#10;C:/百度网盘/15-Spring Boot/代码/代码1/springboot_mybatis/pom.xml&#10;C:/百度网盘/15-Spring Boot/代码/代码/springboot_mybatis/src/main/webapp&#10;C:/百度网盘/15-Spring Boot/代码/代码/springboot_mybatis/pom.xml&#10;C:/Users/changjiang/.IntelliJIdea2017.3/demo&#10;C:/Users/changjiang/.IntelliJIdea2017.3&#10;C:/Users/changjiang/IdeaProjects/day02/src/main/webapp&#10;C:/百度网盘/10-企业权限管理系统/05-SSMAOP日志/代码/heima_ssm/heima_ssm/pom.xml&#10;C:/Users/changjiang/IdeaProjects/test1/src&#10;C:/Users/changjiang/IdeaProjects/test1&#10;C:/Program Files/Java/jdk1.8.0_152&#10;C:/Users/changjiang/IdeaProjects/travel&#10;C:/apache-tomcat-8.5.31&#10;C:/apache-maven-3.5.2&#10;C:/localRepository&#10;C:/apache-maven-3.5.2/conf/settings.xml" />
+    <property name="android-component-compatibility-check" value="1586586653504" />
+    <property name="project.wizard.group" value="SpringInitializr" />
+    <property name="project.wizard.template" value="Spring Initializr" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/IdeaProjects/t_demo&#10;C:/百度网盘/10-企业权限管理系统/03-订单及权限操作及springSecurity源码分析/代码/代码/heima_ssm/pom.xml&#10;C:/百度网盘/10-企业权限管理系统/02-环境及产品订单操作/代码/代码/分页代码/heima_ssm/pom.xml&#10;C:/Users/changjiang/.IntelliJIdea2017.3/web3&#10;C:/百度网盘/ssm/ssm/pom.xml&#10;C:/Users/changjiang/.IntelliJIdea2017.3/ssm/pom.xml&#10;C:/Users/changjiang/.IntelliJIdea2017.3/springmvctest1&#10;C:/百度网盘/15-Spring Boot/代码/代码1/springboot_mybatis/pom.xml&#10;C:/百度网盘/15-Spring Boot/代码/代码/springboot_mybatis/src/main/webapp&#10;C:/百度网盘/15-Spring Boot/代码/代码/springboot_mybatis/pom.xml&#10;C:/Users/changjiang/.IntelliJIdea2017.3/demo&#10;C:/Users/changjiang/.IntelliJIdea2017.3&#10;C:/Users/changjiang/IdeaProjects/day02/src/main/webapp&#10;C:/百度网盘/10-企业权限管理系统/05-SSMAOP日志/代码/heima_ssm/heima_ssm/pom.xml&#10;C:/Users/changjiang/IdeaProjects/test1/src&#10;C:/Users/changjiang/IdeaProjects/test1&#10;C:/Program Files/Java/jdk1.8.0_152&#10;C:/Users/changjiang/IdeaProjects/travel&#10;C:/apache-tomcat-8.5.31&#10;C:/apache-maven-3.5.2&#10;C:/localRepository&#10;C:/apache-maven-3.5.2/conf/settings.xml" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
     <property name="lastTip" value="2" />
@@ -17,7 +17,7 @@
     <property name="ExpandBeforeRunStepsPanel" value="true" />
     <property name="javaee.appServer.lastUsedServer" value="Tomcat 8.5.31" />
     <property name="javaee.appServer.lastUsedIntegration" value="Tomcat Server" />
-    <property name="file.gist.reindex.count" value="581" />
+    <property name="file.gist.reindex.count" value="1740" />
     <property name="spring.initializr.service.url.history" value="http://start.spring.io" />
     <property name="spring.initializr.service.url.last" value="https://start.spring.io" />
     <property name="MemberChooser.showClasses" value="true" />
@@ -29,5 +29,9 @@
     <property name="last.imported.location" value="C:/百度网盘/15-Spring Boot/代码/代码/springboot_mybatis/pom.xml" />
     <property name="JUnitSupport.hidePassedTests" value="false" />
     <property name="Copy.OpenInEditor" value="true" />
+    <property name="SearchEveryWhereHistory" value="i`" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Darcula" />
+    <property name="JUnit.Splitter.Proportion" value="0.1933937" />
   </component>
 </application>

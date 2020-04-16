@@ -1,12 +1,36 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Description" />
+      <item value="FAILED" />
+      <item value="Audit" />
+      <item value="contains" />
+      <item value="ANONYMOUS" />
+      <item value="failure" />
+      <item value="expressed" />
+      <item value="Unsatisfied" />
+      <item value="pattern" />
+      <item value="Grammar" />
+      <item value="rows" />
+      <item value="target" />
+      <item value="sorted" />
+      <item value="security" />
+      <item value="processing" />
+      <item value="permissions" />
+      <item value="required" />
+      <item value="Before" />
+      <item value="initialization" />
+      <item value="failed" />
+      <item value="during" />
+      <item value="unnecessary" />
+      <item value="generally" />
+      <item value="var" />
+      <item value="qualifying" />
       <item value="Logging Failure Analysis Reporter" />
       <item value="enabled" />
       <item value="report" />
       <item value="conditions" />
       <item value="deprecated" />
-      <item value="during" />
       <item value="details" />
       <item value="Y" />
       <item value="embedded" />
@@ -16,8 +40,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="CHINESE" value="39" />
+        <entry key="ENGLISH" value="40" />
+        <entry key="SWEDISH" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>

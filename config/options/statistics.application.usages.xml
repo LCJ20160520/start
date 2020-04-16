@@ -1,24 +1,29 @@
 <application>
   <component name="UsageTrigger">
     <counts>
-      <entry feature="CreateFile.CreateFileAction" count="3" />
-      <entry feature="OpenInBrowser.Chrome" count="11" />
+      <entry feature="CreateFile.CreateFileAction" count="8" />
+      <entry feature="OpenInBrowser.Chrome" count="67" />
       <entry feature="OpenInBrowser.Firefox" count="1" />
       <entry feature="StripeButton[Version Control].shown" count="1" />
-      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Run" count="31" />
-      <entry feature="execute.JUnit.Run" count="2" />
-      <entry feature="execute.SpringBootApplicationConfigurationType.Run" count="31" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Coverage" count="1" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Run" count="368" />
+      <entry feature="execute.Application.Run" count="73" />
+      <entry feature="execute.JUnit.Run" count="78" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Run" count="39" />
+      <entry feature="ide.settings.Appearance" count="2" />
       <entry feature="ide.settings.Font" count="2" />
       <entry feature="ide.settings.Maven" count="1" />
       <entry feature="ide.settings.Notifications" count="1" />
       <entry feature="ide.settings.Plugins" count="1" />
+      <entry feature="ide.settings.Spring" count="1" />
       <entry feature="ide.settings.Tomcat Server" count="1" />
-      <entry feature="ideaapp.started" count="6" />
-      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="9" />
+      <entry feature="ideaapp.started" count="41" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="10" />
       <entry feature="tips.of.the.day.next" count="1" />
       <entry feature="welcome.screen.WelcomeScreen.Configure" count="1" />
-      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="6" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="8" />
       <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="1" />
       <entry feature="welcome.screen.WelcomeScreen.Settings" count="1" />
     </counts>
   </component>
